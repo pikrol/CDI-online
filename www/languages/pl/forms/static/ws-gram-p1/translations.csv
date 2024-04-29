@@ -1,8 +1,6 @@
 text_type;text;item_type;category
-cdiNameSufix;Inwentarz Rozwoju Mowy i Komunikacji: Słowa i Zdania;;
-menuButton;Sekcja 1;case;
-longText;W języku polskim wielu słów używamy w różnych formach, w zależności od tego, co chcemy powiedzieć, i gdzie te słowa są umieszczone w zdaniu. Dzieci zazwyczaj używają słowa najpierw tylko w jednej formie (np. tata), a dopiero potem zaczynają używać innych jego form (np. taty, tacie).
-W poniższej części kwestionariusza pytamy o różne formy słów, które mogłaś/mogłeś usłyszeć od swojego dziecka w codziennych rozmowach. Nie chodzi o to, co dziecko jest w stanie powtórzyć, np. w rymowankach albo kiedy mu czytasz, ale o formy, których używa samo z siebie.
-Słowa na poniższej liście to tylko przykłady. Zaznacz “lalce, zupce” nawet, jeśli Twoje dziecko nie używa tych słów w tej formie, ale mówi np. “mamie”.;case;firstPage
-catHeader;Czy Twoje dziecko używa form takich jak na przykład:;case;form
-instr;(Jeśli dziecko używa choć jednej formy z danego przykładu, zaznacz cały przykład);case;form
+cdiNamePrefix;Od słowa do zdania;;
+cdiNameSufix;Jak mówi Twoje dziecko;;
+menuButton;Sekcja 1;noun_form;
+longText;W języku polskim wielu słów używamy w różnych formach, w zależności od tego, co chcemy powiedzieć, i gdzie te słowa są umieszczone w zdaniu. Dzieci zazwyczaj używają słowa najpierw tylko w jednej formie (np. tata), a dopiero potem zaczynają używać innych jego form (np. taty, tacie). W poniższej części kwestionariusza pytamy o różne formy słów, które mogłaś/mogłeś usłyszeć od swojego dziecka w codziennych rozmowach. Nie chodzi o to, co dziecko jest w stanie powtórzyć, np. w rymowankach albo kiedy mu czytasz, ale o formy, których używa samo z siebie. Słowa na poniższej liście to tylko przykłady. Zaznacz “lalce, zupce” nawet, jeśli Twoje dziecko nie używa tych słów w tej formie, ale mówi np. “mamie”.;noun_form;
+warning;Czy Twoje dziecko używa form takich jak na przykład:;noun_form;
