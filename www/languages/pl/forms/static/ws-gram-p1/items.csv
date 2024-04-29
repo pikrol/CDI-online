@@ -10,3 +10,5 @@ item_8;kotku, autu, rowerku;noun_form;
 item_9;auta, jajeczka, kubka;noun_form;
 item_10;autu, jajku, dziecku;noun_form;
 item_11;aucie, kubku, domku;noun_form;
+item_x;Gdy chcemy powiedzieć...;noun_context;
+item_x;Gdy chcemy powiedzieć więcej...;noun_context;
