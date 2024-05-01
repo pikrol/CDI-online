@@ -1,6 +1,13 @@
 text_type;text;item_type;category
 cdiNamePrefix;„Od słowa do zdania”;;
 cdiNameSufix;Jak mówi Twoje dziecko;;
+longText;Odpowiedz na poniższe trzy pytania i kliknij przycisk „Zatwierdź”. Jeśli uważasz, że jest coś jeszcze, co powinniśmy wiedzieć o Twoim dziecku (problemy zdrowotne? kontakt z innymi językami?), możesz użyć pola na uwagi, żeby nam o tym powiedzieć.;start;
+warning;WAŻNE: Zakończenie i przesłanie odpowiedzi będzie możliwe dopiero po zatwierdzeniu wszystkich części. W każdej chwili możesz przerwać wypełnianie, co nie spowoduje utraty dotychczasowych odpowiedzi. Żeby wrócić do wypełniania (np. na innym urządzeniu), użyj dokładnie tego samego adresu, który widzisz teraz w przeglądarce. Pamiętaj jednak, że formularz nie może być otwarty na kilku urządzeniach na raz.;start;
+help;Pamiętaj, że po zatwierdzeniu odpowiedzi nie będzie już można wrócić na tę stronę.;start;
+noGender;Wskaż płeć dziecka.;;
+noFiller;Odpowiedz, kim jesteś dla dziecka.;;
+fillerLabel;Kim jesteś dla dziecka?;;
+fillers;mama,tata,inna odpowiedź (proszę wpisać):;;
 menuButton;Sekcja 1;tense;
 choiceNames;"Tak, Nie";tense;
 menuButton;Sekcja 2;verb;
