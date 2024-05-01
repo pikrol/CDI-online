@@ -8,8 +8,9 @@ noGender;Wskaż płeć dziecka.;;
 noFiller;Odpowiedz, kim jesteś dla dziecka.;;
 fillerLabel;Kim jesteś dla dziecka?;;
 fillers;mama,tata,inna odpowiedź (proszę wpisać):;;
-menuButton;Sekcja 1;tense;
-choiceNames;"Tak, Nie";tense;
+menuButton;Poza tu i teraz;deixis;
+choiceNames;"Tak, Nie";deixis;
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;deixis;
 menuButton;Sekcja 2;verb;
 longText;Słowa na poniższej liście to tylko przykłady. Zaznacz TAK, nawet jeśli Twoje dziecko nie używa wszystkich słów w tej formie lub używa innych słów. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „poszłem” zamiast „poszedłem”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;verb;part1
 choiceNames;"Tak, Nie";verb;part1
