@@ -25,3 +25,7 @@ help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;tense
 instr;Gdy Twoje dziecko opowiada o tym, co właśnie...;verb;person
 choiceNames;"Tak, Nie";verb;person
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;person
+tooltip;Zakończenie kwestionariusza będzie możliwe po zatwierdzeniu wszystkich części.;end;
+instr;Jeśli wypełniłaś/wypełniłeś wszystkie części kwestionariusza, kliknij przycisk „Zatwierdź”.;end;
+endMsgTitle;Dziękujemy za wypełnienie kwestionariusza!;end;
+endMsgText;Mamy nadzieję, że czas refleksji nad rozwojem językowym dziecka był dla Ciebie cenny! Twoje zaangażowanie w badanie jest bardzo ważne - pomoże nam szczegółowo opisać wczesny rozwój językowy dzieci.;end;
