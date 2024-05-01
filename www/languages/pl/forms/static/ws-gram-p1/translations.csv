@@ -20,9 +20,11 @@ choiceNames;"Tak, Nie";noun;context
 longText;Słowa pojawiają się w różnych formach w zależności od tego, co chcemy powiedzieć. Odpowiadając na pytania poniżej, zaznacz TAK, nawet jeśli Twoje dziecko nie używa słów, które podajemy jako przykłady, ale używa innych w podobnych sytuacjach. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się też, jeśli Twoje dziecko mówi na przykład „psowi” zamiast „psu”.<br><br>Jeśli natomiast zaznaczasz NIE, <b>w polu na uwagi podaj przykład</b>, jak Twoje dziecko mówi w podobnych sytuacjach, np. „Boję psa”, „Boję (się)… pies [wskazując na psa]” lub „Nie psa” zamiast „Nie ma psa”.<br><br>;noun;context
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;noun;context
 menuButton;Czasowniki;verb;
+catHeader;Czas;verb;tense
 longText;Również w tej części użyte przez nas słowa to tylko przykłady. Zaznacz TAK, nawet jeśli Twoje dziecko używa tylko niektórych słów w tej formie, niekoniecznie tych, które podaliśmy. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „poszłem” zamiast „poszedłem”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;verb;tense
 choiceNames;"Tak, Nie";verb;tense
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;tense
+catHeader;Osoby;verb;person
 instr;Gdy Twoje dziecko opowiada o tym, co właśnie...;verb;person
 choiceNames;"Tak, Nie";verb;person
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;person
