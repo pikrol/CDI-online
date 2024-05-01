@@ -21,16 +21,16 @@ item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy „Bawię się..
 item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy „[Ktoś] jest w... (np. <u>w domku/w pracy/w sklepie</u>)”. Czy twoje dziecko tak mówi?;noun_context;
 item_20;Gdy chcemy powiedzieć, o czym jest bajka, mówimy „Bajka jest o... (np.  <u>autach/księżniczce/piesku</u>)”. Czy twoje dziecko tak mówi?;noun_context;
 item_21;Czy Twoje dziecko opowiada o wydarzeniach z przeszłości oraz o rzeczach i osobach, które pamięta? Np. jeśli w zeszłym tygodniu byliście z rodziną nad jeziorem, może później mówi „rybki”, „wujek”, „pływa”?;deixis;
-item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości, np. mówi „auto” zanim wyruszycie w podróż, lub „babcia”, kiedy babcia ma Was odwiedzić?;deixis;
+item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości, np. mówi „auto”, zanim wyruszycie w podróż, lub „babcia”, kiedy babcia ma Was odwiedzić?;deixis;
 item_23;Czy Twoje dziecko <u>rozumie</u>, gdy rozmawiacie o czymś, co jest poza zasięgiem wzroku, np. pytacie „Gdzie jest kubek”, a ono idzie do kuchni i przynosi kubek?;deixis;
 item_24;Czy Twoje dziecko <u>mówi</u> o czymś lub kimś, co/kto jest poza zasięgiem wzroku, np. o zgubionej zabawce lub o osobie, która jest nieobecna?;deixis;
 item_25;Czy Twoje dziecko pokazuje na przedmiot należący do danej osoby i przypisuje tę rzecz osobie, np. pokazuje na buty taty i mówi „tata”?;deixis;
-item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <b>zjadłem/zjadłam, bawiłeś/bawiłaś się, czytaliśmy/czytałyśmy, rysowaliście/rysowałyście...</b> Czy Twoje dziecko już tak mówi?;verb;part1
-item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać  słów takich jak <b>narysuję, zjesz, umyje, zagramy, przeczytacie…</b> Czy Twoje dziecko tak mówi?;verb;part1
-item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać  wyrażeń takich jak <b>będę rysować, będziesz jeść, będzie się myć, będziemy grać, będziecie czytać...</b> Czy Twoje dziecko tak mówi?;verb;part1
-item_29;… robi, czy mówi <b>chcę, jem, gram, rysuję, piję</b>, itp.;verb;part2
-item_30;…Ty robisz, czy mówi <b>chcesz, jesz, grasz, rysujesz, tańczysz</b>, itp.;verb;part2
-item_31;… robi ktoś inny, czy mówi <b>chce, je, gra, czyta, idzie, tańczy, płacze</b>, itp.;verb;part2
-item_32;… robicie wspólnie, czy mówi <b>jedziemy, idziemy, robimy, gramy, jemy</b>, itp.;verb;part2
-item_33;… Ty robisz z innymi, czy mówi <b>chcecie, gracie, czytacie, idziecie</b>, itp.;verb;part2
-item_34;…robią inni, czy mówi <b>stoją, biegają, grają, jedzą</b>, itp.;verb;part2
+item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <u><i>zjadłem/zjadłam</i></u>, <u><i>bawiłeś/bawiłaś się</i></u>, <u><i>czytaliśmy/czytałyśmy</i></u>, <u><i>rysowaliście/rysowałyście</i></u>... Czy Twoje dziecko tak mówi?;verb;tense
+item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać słów takich jak <u><i>narysuję</i></u>, <u><i>zjesz</i></u>, <u><i>umyje</i></u>, <u><i>zagramy</i></u>, <u><i>przeczytacie</i></u>... Czy Twoje dziecko tak mówi?;verb;tense
+item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać wyrażeń takich jak <u><i>będę rysować</i></u>, <u><i>będziesz jeść</i></u>, <u><i>będzie się myć</i></u>, <u><i>będziemy grać</i></u>, <u><i>będziecie czytać</i></u>... Czy Twoje dziecko tak mówi?;verb;tense
+item_29;...robi, czy mówi <u><i>chcę / jem / gram / rysuję / piję</i></u> itp.?;verb;person
+item_30;...Ty robisz, czy mówi <u><i>chcesz / jesz / grasz / rysujesz / tańczysz</i></u> itp.?;verb;person
+item_31;...robi ktoś inny, czy mówi <u><i>chce / je / gra / czyta / idzie / tańczy / płacze</i></u> itp.?;verb;person
+item_32;...robicie wspólnie, czy mówi <u><i>jedziemy / idziemy / robimy / gramy / jemy</i></u> itp.?;verb;person
+item_33;...Ty robisz z innymi, czy mówi <u><i>chcecie / gracie / czytacie / idziecie</i></u> itp.?;verb;person
+item_34;...robią inni, czy mówi <u><i>stoją / biegają / grają / jedzą</i></u> itp.?;verb;person
