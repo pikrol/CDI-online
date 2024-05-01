@@ -1,14 +1,35 @@
 item_id;definition;type;category
 item_1;lalk<b><u>i</u></b>, piłk<b><u>i</u></b>, cioc<b><u>i</u></b>;noun_form;
-item_2;mamie, lalce, zupce;noun_form;
-item_3;ciocię, lalkę, zupkę;noun_form; 
-item_4;mamą, lalką, zupką;noun_form;
-item_5;pieska, jajka, rowerka;noun_form;
-item_6;kotkowi, klockowi, rowerkowi;noun_form;
-item_7;pieskiem, autem, rowerkiem;noun_form;
-item_8;kotku, autu, rowerku;noun_form;
-item_9;auta, jajeczka, kubka;noun_form;
-item_10;autu, jajku, dziecku;noun_form;
-item_11;aucie, kubku, domku;noun_form;
-item_x;Gdy chcemy powiedzieć...;noun_context;
-item_x;Gdy chcemy powiedzieć więcej...;noun_context;
+item_2;lalc<b><u>e</u></b>, piłc<b><u>e</u></b>, mami<b><u>e</u></b>;noun_form;
+item_3;lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>, cioci<b><u>ę</u></b>;noun_form; 
+item_4;lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>, mam<b><u>ą</u></b>;noun_form;
+item_5;ps<b><u>a</u></b>, jajk<b><u>a</u></b>, rowerk<b><u>a</u></b>;noun_form;
+item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;noun_form;
+item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;noun_form;
+item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;noun_form;
+item_9;aut<b><u>a</u></b>, jajk<b><u>a</u></b>, kubk<b><u>a</u></b>;noun_form;
+item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... np. mamy/pieska/auta”. Czy twoje dziecko tak mówi?;noun_context;
+item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... np. babci/domku/przedszkola” Czy twoje dziecko tak mówi?;noun_context;
+item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy "Boję się ... np. potworów/osy/pająka". Czy twoje dziecko tak mówi?;noun_context;
+item_13;Gdy chcemy powiedzieć o dawaniu komuś zabawki, mówimy "Dam zabawkę ... np. dziadkowi/mamusi/psu". Czy twoje dziecko tak mówi?;noun_context;
+item_14;Gdy chcemy powiedzieć, o tym co chcemy zjeść, mówimy "Chcę … np. kanapkę/klocki/jajko". Czy twoje dziecko tak mówi?;noun_context;
+item_15;Gdy chcemy powiedzieć o myciu czegoś, mówimy "Myję ... np. buzię/ząbki/ręce". Czy twoje dziecko tak mówi?;noun_context;
+item_16;Gdy chcemy powiedzieć o myciu czegoś, mówimy "Myję ... np. buzię/ząbki/ręce". Czy twoje dziecko tak mówi?;noun_context;
+item_17;Gdy chcemy powiedzieć o tym, czym jedziemy, mówimy "Jedziemy ... np. autem/karocą/autobusem". Czy twoje dziecko tak mówi?;noun_context;
+item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy "Bawię się ... np. klockami/lalką/autem". Czy twoje dziecko tak mówi?;noun_context;
+item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy "[Ktoś] jest w... np.w domku/w pracy/w sklepie”. Czy twoje dziecko tak mówi?;noun_context;
+item_20;Gdy chcemy powiedzieć, o czym jest bajka, mówimy "Bajka jest o ... np.  autach/księżniczce/piesku”. Czy twoje dziecko tak mówi?;noun_context;
+item_21;Czy Twoje dziecko opowiada o wydarzeniach z przeszłości oraz o rzeczach i osobach, które pamięta? Np. jeśli w zeszłym tygodniu byliście ze znajomymi nad jeziorem może później mówi „rybki”, „wujek”, „pływa”?;tense;
+item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości np. mówi „auto” zanim wyruszycie w podróż lub „plac zabaw” zanim pójdziecie na plac zabaw lub do parku?;tense;
+item_23;Czy Twoje dziecko <b><u>rozumie</u></b>, gdy rozmawiacie o czymś, co jest poza zasięgiem wzroku, np. pytacie „Gdzie jest kubek”, a ono idzie do kuchni i przynosi kubek?;tense;
+item_24;Czy Twoje dziecko <b><u>mówi</u></b> o czymś lub kimś, co/kto jest poza zasięgiem wzroku, np. o zgubionej zabawce lub o osobie, która jest nieobecna?;tense;
+item_25;Czy Twoje dziecko pokazuje na przedmiot należący do danej osoby i przypisuje tą rzecz osobie, np. pokazuje na buty taty i mówi „tata”?;tense;
+item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <b>zjadłem/zjadłam, bawiłeś/bawiłaś się, czytaliśmy/czytałyśmy, rysowaliście/rysowałyście...</b> Czy Twoje dziecko już tak mówi?;verb;part1
+item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać  słów takich jak <b>narysuję, zjesz, umyje, zagramy, przeczytacie…</b> Czy Twoje dziecko tak mówi?;verb;part1
+item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać  wyrażeń takich jak <b>będę rysować, będziesz jeść, będzie się myć, będziemy grać, będziecie czytać...</b> Czy Twoje dziecko tak mówi?;verb;part1
+item_29;… robi, czy mówi <b>chcę, jem, gram, rysuję, piję</b>, itp.;verb;part2
+item_30;…Ty robisz, czy mówi <b>chcesz, jesz, grasz, rysujesz, tańczysz</b>, itp.;verb;part2
+item_31;… robi ktoś inny, czy mówi <b>chce, je, gra, czyta, idzie, tańczy, płacze</b>, itp.;verb;part2
+item_32;… robicie wspólnie, czy mówi <b>jedziemy, idziemy, robimy, gramy, jemy</b>, itp.;verb;part2
+item_33;… Ty robisz z innymi, czy mówi <b>chcecie, gracie, czytacie, idziecie</b>, itp.;verb;part2
+item_34;…robią inni, czy mówi <b>stoją, biegają, grają, jedzą</b>, itp.;verb;part2
