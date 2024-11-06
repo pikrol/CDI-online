@@ -14,10 +14,18 @@ redirect <- function(parameters, idx, lang, form, type, run){
       
       if ("redirectionParams" %in% parameters$parameter){
         
-        redirectionURL <- paste0(redirectionURL, "/?")
+        urlParams <- grepl("/?", redirectionURL, fixed = TRUE) #Check if there are params in the URL already
+        
+        if (urlParams){
+          firstParam <- FALSE
+        } else {
+          redirectionURL <- paste0(redirectionURL, "/?")
+          firstParam <- TRUE
+        }
+        
         paramsList <- as.list(strsplit(parameters[parameters$parameter=="redirectionParams", "value"], ",")[[1]]) #Split into list based on comma
         paramsList <- gsub(" ", "", paramsList) #Remove whitespaces
-        firstParam <- TRUE
+        
         
         for (param in paramsList){
           if (!firstParam) redirectionURL <- paste0(redirectionURL, "&")
