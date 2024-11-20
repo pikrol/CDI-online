@@ -1,0 +1,7 @@
+type,category,input_type,comment,css_class,binded_types,initially_disabled,conditions,answers_to_enable
+start,,demographic,TRUE,,,FALSE,"deixis,verb,noun",all
+deixis,,radio,TRUE,,,TRUE,,
+noun,,oneCheckboxGroup,TRUE,,,TRUE,,
+noun,context,radio,TRUE,,,TRUE,,
+verb,,radio,TRUE,,,TRUE,,
+end,,,FALSE,,,TRUE,,

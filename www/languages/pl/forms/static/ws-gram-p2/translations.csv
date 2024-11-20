@@ -1,0 +1,34 @@
+text_type;text;item_type;category
+cdiNamePrefix;„Od słowa do zdania”;;
+cdiNameSufix;Jak mówi Twoje dziecko;;
+longText;Odpowiedz na poniższe trzy pytania i kliknij przycisk „Zatwierdź”. Jeśli uważasz, że jest coś jeszcze, co powinniśmy wiedzieć o Twoim dziecku (problemy zdrowotne? kontakt z innymi językami?), możesz użyć pola na uwagi, żeby nam o tym powiedzieć.;start;
+warning;WAŻNE: Zakończenie i przesłanie odpowiedzi będzie możliwe dopiero po zatwierdzeniu wszystkich części. W każdej chwili możesz przerwać wypełnianie, co nie spowoduje utraty dotychczasowych odpowiedzi. Żeby wrócić do wypełniania (np. na innym urządzeniu), użyj dokładnie tego samego adresu, który widzisz teraz w przeglądarce. Pamiętaj jednak, że formularz nie może być otwarty na kilku urządzeniach na raz.;start;
+help;Pamiętaj, że po zatwierdzeniu odpowiedzi nie będzie już można wrócić na tę stronę.;start;
+noGender;Wskaż płeć dziecka.;;
+noFiller;Odpowiedz, kim jesteś dla dziecka.;;
+fillerLabel;Kim jesteś dla dziecka?;;
+fillers;mama,tata,inna odpowiedź (proszę wpisać):;;
+menuButton;Poza tu i teraz;deixis;
+choiceNames;"Tak, Nie";deixis;
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;deixis;
+menuButton;Rzeczowniki;noun;
+catHeader;Formy;noun;form
+longText;W języku polskim wielu słów używamy w różnych formach, w zależności od tego, co chcemy powiedzieć, i gdzie te słowa są umieszczone w zdaniu. Dzieci zazwyczaj używają słowa najpierw tylko w jednej formie (np. „tata”), a dopiero potem zaczynają używać innych jego form (np. „taty”, „tacie”).<br><br>W poniższej części kwestionariusza pytamy o różne formy słów, które mogłaś/mogłeś usłyszeć od swojego dziecka w codziennych rozmowach. Nie chodzi o to, co dziecko jest w stanie powtórzyć, np. w rymowankach albo kiedy mu czytasz, ale o formy, których używa samo z siebie.<br><br>Słowa na poniższej liście to tylko przykłady. Zaznacz „lalki, piłki, cioci”, nawet jeśli Twoje dziecko nie używa tych słów w tej formie, ale mówi np. „zupki” albo „bajki”. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „piesa” zamiast „psa”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;noun;form
+warning;Czy Twoje dziecko używa form takich jak na przykład:;noun;form
+catHeader;Konteksty;noun;context
+choiceNames;"Tak, Nie";noun;context
+longText;Słowa pojawiają się w różnych formach w zależności od tego, co chcemy powiedzieć. Odpowiadając na pytania poniżej, zaznacz TAK, nawet jeśli Twoje dziecko nie używa słów, które podajemy jako przykłady, ale używa innych w podobnych sytuacjach. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się też, jeśli Twoje dziecko mówi na przykład „psowi” zamiast „psu”.<br><br>Jeśli natomiast zaznaczasz NIE, <b>w polu na uwagi podaj przykład</b>, jak Twoje dziecko mówi w podobnych sytuacjach, np. „Boję psa”, „Boję (się)… pies [wskazując na psa]” lub „Nie psa” zamiast „Nie ma psa”.<br><br>;noun;context
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;noun;context
+menuButton;Czasowniki;verb;
+catHeader;Czas;verb;tense
+longText;Również w tej części użyte przez nas słowa to tylko przykłady. Zaznacz TAK, nawet jeśli Twoje dziecko używa tylko niektórych słów w tej formie, niekoniecznie tych, które podaliśmy. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „poszłem” zamiast „poszedłem”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;verb;tense
+choiceNames;"Tak, Nie";verb;tense
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;tense
+catHeader;Osoby;verb;person
+instr;Gdy Twoje dziecko opowiada o tym, co właśnie...;verb;person
+choiceNames;"Tak, Nie";verb;person
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;verb;person
+tooltip;Zakończenie kwestionariusza będzie możliwe po zatwierdzeniu wszystkich części.;end;
+instr;Jeśli wypełniłaś/wypełniłeś wszystkie części kwestionariusza, kliknij przycisk „Zatwierdź”.;end;
+endMsgTitle;Dziękujemy za wypełnienie kwestionariusza!;end;
+endMsgText;Mamy nadzieję, że czas refleksji nad rozwojem językowym dziecka był dla Ciebie cenny! Twoje zaangażowanie w badanie jest bardzo ważne - pomoże nam szczegółowo opisać wczesny rozwój językowy dzieci.;end;
