@@ -55,9 +55,9 @@ instr;Proszę podać przykłady rzeczywistych wypowiedzeń dziecka złożonych z
 catHeader;Trzy najdłuższe zdania;sentences;sentences3
 instr;Proszę podać przykłady trzech najdłuższych zdań, jakie ostatnio słyszeli Państwo od swego dziecka. (Chodzi o wypowiedzi samodzielne, a nie wierszyki, piosenki itp.);sentences;sentences3
 longText;Część druga: zdania i formy gramatyczne;deixis;firstPage
-menuButton;Poza tu i teraz;deixis;
-choiceNames;zawsze, często, jeszcze nie;deixis;
-help;Czy odpowiedziałaś_eś na wszystkie pytania?;deixis;
+menuButton;Poza tu i teraz;deixis;deixis
+choiceNames;zawsze, często, jeszcze nie;deixis;deixis
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;deixis;deixis
 menuButton;Rzeczowniki;noun;
 catHeader;Formy;noun;form
 longText;W języku polskim wielu słów używamy w różnych formach, w zależności od tego, co chcemy powiedzieć, i gdzie te słowa są umieszczone w zdaniu. Dzieci zazwyczaj używają słowa najpierw tylko w jednej formie (np. „tata”), a dopiero potem zaczynają używać innych jego form (np. „taty”, „tacie”).<br><br>W poniższej części kwestionariusza pytamy o różne formy słów, które mogłaś/mogłeś usłyszeć od swojego dziecka w codziennych rozmowach. Nie chodzi o to, co dziecko jest w stanie powtórzyć, np. w rymowankach albo kiedy mu czytasz, ale o formy, których używa samo z siebie.<br><br>Słowa na poniższej liście to tylko przykłady. Zaznacz „lalki, piłki, cioci”, nawet jeśli Twoje dziecko nie używa tych słów w tej formie, ale mówi np. „zupki” albo „bajki”. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „piesa” zamiast „psa”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;noun;form
