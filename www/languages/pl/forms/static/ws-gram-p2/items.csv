@@ -1,4 +1,4 @@
-org_item_id;definition;type;category;gram_label;gram_category;lexical_category;lexical_class;uni_lemma;form;item_id
+org_item_id;definition;type;category;gram_label;gram_category;lexical_category;lexical_class;uni_lemma;origin;item_id
 item_1;gę gę;word;sounds;;;other;other;quack quack;WS;item_001
 item_2;hau hau;word;sounds;;;other;other;woof woof;WS;item_002
 item_3;ko ko ko;word;sounds;;;other;other;cluck cluck;WS;item_003
