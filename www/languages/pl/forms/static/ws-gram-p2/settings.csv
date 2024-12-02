@@ -1,13 +1,13 @@
-type,category,input_type,comment,css_class,binded_types,initially_disabled,conditions,answers_to_enable,comment
-start,,demographic,TRUE,,,FALSE,"word,combine,deixis,verb,noun,alternatives,yesNo",all,
-word,,oneCheckboxGroup,TRUE,threeColumns,,TRUE,,,
-combine,,radio,FALSE,,,TRUE,sentences,"2,3",
-sentences,,sentences,FALSE,,,TRUE,,,
-sentences,sentences10,sentences,FALSE,twoColumns,,,,,
-deixis,,radio,TRUE,,,TRUE,,,
-noun,,oneCheckboxGroup,TRUE,,,TRUE,,,
-noun,context,radio,TRUE,,,TRUE,,,
-verb,,radio,TRUE,,,TRUE,,,
-alternatives,,checkboxAlt,TRUE,,,TRUE,,,zmiana na disabled
-yesNo,,radio,TRUE,,,TRUE,,,zmiana na disabled
-end,,,FALSE,,,TRUE,,,
+type,category,input_type,comment,css_class,binded_types,initially_disabled,conditions,answers_to_enable
+start,,demographic,TRUE,,,FALSE,"word,combine,deixis,verb,noun,alternatives,yesNo,sentences,inflection",all
+word,,oneCheckboxGroup,TRUE,threeColumns,,TRUE,,
+deixis,,radio,TRUE,,,TRUE,,
+inflection,,oneCheckboxGroup,TRUE,,,TRUE,,
+inflection,noun_context,radio,TRUE,,,TRUE,,
+inflection,verb_tense,radio,TRUE,,,TRUE,,
+inflection,verb_person,radio,TRUE,,,TRUE,,
+combine,,radio,FALSE,,,TRUE,,
+sentences,,checkboxAlt,TRUE,,,TRUE,,
+sentences,yesNowprost,radio,TRUE,,,TRUE,,
+sentences,sentences3,sentences,FALSE,,,TRUE,,
+end,,,FALSE,,,TRUE,,
