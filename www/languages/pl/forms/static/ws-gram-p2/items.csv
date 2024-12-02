@@ -670,41 +670,41 @@ item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_6
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
 item_674;Czy dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zadania jak np. „am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
-item_1;lalk<b><u>i</u></b>, piłk<b><u>i</u></b>, cioc<b><u>i</u></b>;noun;form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_672
-item_2;lalc<b><u>e</u></b>, piłc<b><u>e</u></b>, mami<b><u>e</u></b>;noun;form;dat:fem „-'e”;dat;;;;PILOT-GRAM-1;item_673
-item_3;lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>, cioci<b><u>ę</u></b>;noun;form;acc:fem „-ę”;acc;;;;PILOT-GRAM-1;item_674
-item_4;lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>, mam<b><u>ą</u></b>;noun;form;inst:fem „-ą”;inst;;;;PILOT-GRAM-1;item_675
-item_4a;cioc<u><b>i</u></b>, babc<u><b>i</u></b>, stacj<u><b>i</u></b>;noun;form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_676
-item_5;ps<b><u>a</u></b>, jajk<b><u>a</u></b>, kubk<b><u>a</u></b>;noun;form;gen:masc „-a”;gen;;;;PILOT-GRAM-1;item_677
-item_5a;ps<b><u>u</u></b>, aut<b><u>u</u></b>, jajk<b><u>u</u></b>;noun;form;dat:masc „-u”;dat;;;;PILOT-GRAM-1;item_678
-item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;noun;form;dat:masc „-owi”;dat;;;;PILOT-GRAM-1;item_679
-item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;noun;form;inst:masc „-em”;inst;;;;PILOT-GRAM-1;item_680
-item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;noun;form;loc:masc „-u”;loc;;;;PILOT-GRAM-1;item_681
-item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>, banan<b><u>ie</u></b>;noun;form;loc:masc „-'e”;loc;;;;PILOT-GRAM-1;item_682
-item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;noun;context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_683
-item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;noun;context;gen „do”;gen;;;;PILOT-GRAM-1;item_684
-item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;noun;context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_685
-item_13;Gdy chcemy powiedzieć o dawaniu komuś zabawki, mówimy „Dam zabawkę... (np. <u>dziadkowi/mamusi/psu</u>)”. Czy twoje dziecko tak mówi?;noun;context;dat „dam”;dat;;;;PILOT-GRAM-1;item_686
-item_14;Gdy chcemy powiedzieć, o tym co chcemy zjeść, mówimy „Chcę... (np. <u>kanapkę/klocki/jajko</u>)”. Czy twoje dziecko tak mówi?;noun;context;acc „chcę”;acc;;;;PILOT-GRAM-1;item_687
-item_15;Gdy chcemy powiedzieć o myciu czegoś, mówimy „Myję... (np. <u>buzię/ząbki/ręce</u>)”. Czy twoje dziecko tak mówi?;noun;context;acc „myję”;acc;;;;PILOT-GRAM-1;item_688
-item_17;Gdy chcemy powiedzieć o tym, czym jedziemy, mówimy „Jedziemy... (np. <u>autem/karocą/autobusem</u>)”. Czy twoje dziecko tak mówi?;noun;context;inst „jedziemy”;inst;;;;PILOT-GRAM-1;item_689
-item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy „Bawię się... (np. <u>klockami/lalką/autem</u>)”. Czy twoje dziecko tak mówi?;noun;context;inst „bawię się”;inst;;;;PILOT-GRAM-1;item_690
-item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy „[Ktoś] jest w... (np. <u>w domku/w pracy/w sklepie</u>)”. Czy twoje dziecko tak mówi?;noun;context;loc „w”;loc;;;;PILOT-GRAM-1;item_691
-item_20;Gdy chcemy powiedzieć, o czym jest bajka, mówimy „Bajka jest o... (np.  <u>autach/księżniczce/piesku</u>)”. Czy twoje dziecko tak mówi?;noun;context;loc „o”;loc;;;;PILOT-GRAM-1;item_692
+item_1;lalk<b><u>i</u></b>, piłk<b><u>i</u></b>, cioc<b><u>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_672
+item_2;lalc<b><u>e</u></b>, piłc<b><u>e</u></b>, mami<b><u>e</u></b>;inflection;noun_form;dat:fem „-'e”;dat;;;;PILOT-GRAM-1;item_673
+item_3;lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>, cioci<b><u>ę</u></b>;inflection;noun_form;acc:fem „-ę”;acc;;;;PILOT-GRAM-1;item_674
+item_4;lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>, mam<b><u>ą</u></b>;inflection;noun_form;inst:fem „-ą”;inst;;;;PILOT-GRAM-1;item_675
+item_4a;cioc<u><b>i</u></b>, babc<u><b>i</u></b>, stacj<u><b>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_676
+item_5;ps<b><u>a</u></b>, jajk<b><u>a</u></b>, kubk<b><u>a</u></b>;inflection;noun_form;gen:masc „-a”;gen;;;;PILOT-GRAM-1;item_677
+item_5a;ps<b><u>u</u></b>, aut<b><u>u</u></b>, jajk<b><u>u</u></b>;inflection;noun_form;dat:masc „-u”;dat;;;;PILOT-GRAM-1;item_678
+item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;inflection;noun_form;dat:masc „-owi”;dat;;;;PILOT-GRAM-1;item_679
+item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;inst:masc „-em”;inst;;;;PILOT-GRAM-1;item_680
+item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;inflection;noun_form;loc:masc „-u”;loc;;;;PILOT-GRAM-1;item_681
+item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>, banan<b><u>ie</u></b>;inflection;noun_form;loc:masc „-'e”;loc;;;;PILOT-GRAM-1;item_682
+item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_683
+item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_684
+item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_685
+item_13;Gdy chcemy powiedzieć o dawaniu komuś zabawki, mówimy „Dam zabawkę... (np. <u>dziadkowi/mamusi/psu</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;dat „dam”;dat;;;;PILOT-GRAM-1;item_686
+item_14;Gdy chcemy powiedzieć, o tym co chcemy zjeść, mówimy „Chcę... (np. <u>kanapkę/klocki/jajko</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;acc „chcę”;acc;;;;PILOT-GRAM-1;item_687
+item_15;Gdy chcemy powiedzieć o myciu czegoś, mówimy „Myję... (np. <u>buzię/ząbki/ręce</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;acc „myję”;acc;;;;PILOT-GRAM-1;item_688
+item_17;Gdy chcemy powiedzieć o tym, czym jedziemy, mówimy „Jedziemy... (np. <u>autem/karocą/autobusem</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;inst „jedziemy”;inst;;;;PILOT-GRAM-1;item_689
+item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy „Bawię się... (np. <u>klockami/lalką/autem</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;inst „bawię się”;inst;;;;PILOT-GRAM-1;item_690
+item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy „[Ktoś] jest w... (np. <u>w domku/w pracy/w sklepie</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;loc „w”;loc;;;;PILOT-GRAM-1;item_691
+item_20;Gdy chcemy powiedzieć, o czym jest bajka, mówimy „Bajka jest o... (np.  <u>autach/księżniczce/piesku</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;loc „o”;loc;;;;PILOT-GRAM-1;item_692
 item_21;Czy Twoje dziecko opowiada o wydarzeniach z przeszłości oraz o rzeczach i osobach, które pamięta? Np. jeśli w zeszłym tygodniu byliście z rodziną nad jeziorem, może później mówi „rybki”, „wujek”, „pływa”?;deixis;deixis;ref_past;ref_past;;;;PILOT-GRAM-1;item_693
 item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości, np. mówi „auto”, zanim wyruszycie w podróż, lub „babcia”, kiedy babcia ma Was odwiedzić?;deixis;deixis;ref_future;ref_future;;;;PILOT-GRAM-1;item_694
 item_23;Czy Twoje dziecko <u>rozumie</u>, gdy rozmawiacie o czymś, co jest poza zasięgiem wzroku, np. pytacie „Gdzie jest kubek”, a ono idzie do kuchni i przynosi kubek?;deixis;deixis;ref_nothere_comp;ref_nothere_comp;;;;PILOT-GRAM-1;item_695
 item_24;Czy Twoje dziecko <u>mówi</u> o czymś lub kimś, co/kto jest poza zasięgiem wzroku, np. o zgubionej zabawce lub o osobie, która jest nieobecna?;deixis;deixis;ref_nothere_prod;ref_nothere_prod;;;;PILOT-GRAM-1;item_696
 item_25;Czy Twoje dziecko pokazuje na przedmiot należący do danej osoby i przypisuje tę rzecz osobie, np. pokazuje na buty taty i mówi „tata”?;deixis;deixis;ref_possession;ref_possession;;;;PILOT-GRAM-1;item_697
-item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <u><i>zjadłem/zjadłam</i></u>, <u><i>bawiłeś/bawiłaś się</i></u>, <u><i>czytaliśmy/czytałyśmy</i></u>, <u><i>rysowaliście/rysowałyście</i></u>... Czy Twoje dziecko tak mówi?;verb;tense;past;past;;;;PILOT-GRAM-1;item_698
-item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać słów takich jak <u><i>narysuję</i></u>, <u><i>zjesz</i></u>, <u><i>umyje</i></u>, <u><i>zagramy</i></u>, <u><i>przeczytacie</i></u>... Czy Twoje dziecko tak mówi?;verb;tense;future_perfect;future_perfect;;;;PILOT-GRAM-1;item_699
-item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać wyrażeń takich jak <u><i>będę rysować</i></u>, <u><i>będziesz jeść</i></u>, <u><i>będzie się myć</i></u>, <u><i>będziemy grać</i></u>, <u><i>będziecie czytać</i></u>... Czy Twoje dziecko tak mówi?;verb;tense;future_imperfect;future_imperfect;;;;PILOT-GRAM-1;item_700
-item_29;...robi, czy mówi <u><i>chcę / jem / gram / rysuję / piję</i></u> itp.?;verb;person;sg:1p;sg:1p;;;;PILOT-GRAM-1;item_701
-item_30;...Ty robisz, czy mówi <u><i>chcesz / jesz / grasz / rysujesz / tańczysz</i></u> itp.?;verb;person;sg:2p;sg:2p;;;;PILOT-GRAM-1;item_702
-item_31;...robi ktoś inny, czy mówi <u><i>chce / je / gra / czyta / idzie / tańczy / płacze</i></u> itp.?;verb;person;sg:3p;sg:3p;;;;PILOT-GRAM-1;item_703
-item_32;...robicie wspólnie, czy mówi <u><i>jedziemy / idziemy / robimy / gramy / jemy</i></u> itp.?;verb;person;pl:1p;pl:1p;;;;PILOT-GRAM-1;item_704
-item_33;...Ty robisz z innymi, czy mówi <u><i>chcecie / gracie / czytacie / idziecie</i></u> itp.?;verb;person;pl:2p;pl:2p;;;;PILOT-GRAM-1;item_705
-item_34;...robią inni, czy mówi <u><i>stoją / biegają / grają / jedzą</i></u> itp.?;verb;person;pl:3p;pl:3p;;;;PILOT-GRAM-1;item_706
+item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <u><i>zjadłem/zjadłam</i></u>, <u><i>bawiłeś/bawiłaś się</i></u>, <u><i>czytaliśmy/czytałyśmy</i></u>, <u><i>rysowaliście/rysowałyście</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;past;past;;;;PILOT-GRAM-1;item_698
+item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać słów takich jak <u><i>narysuję</i></u>, <u><i>zjesz</i></u>, <u><i>umyje</i></u>, <u><i>zagramy</i></u>, <u><i>przeczytacie</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;future_perfect;future_perfect;;;;PILOT-GRAM-1;item_699
+item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać wyrażeń takich jak <u><i>będę rysować</i></u>, <u><i>będziesz jeść</i></u>, <u><i>będzie się myć</i></u>, <u><i>będziemy grać</i></u>, <u><i>będziecie czytać</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;future_imperfect;future_imperfect;;;;PILOT-GRAM-1;item_700
+item_29;...robi, czy mówi <u><i>chcę / jem / gram / rysuję / piję</i></u> itp.?;inflection;verb_person;sg:1p;sg:1p;;;;PILOT-GRAM-1;item_701
+item_30;...Ty robisz, czy mówi <u><i>chcesz / jesz / grasz / rysujesz / tańczysz</i></u> itp.?;inflection;verb_person;sg:2p;sg:2p;;;;PILOT-GRAM-1;item_702
+item_31;...robi ktoś inny, czy mówi <u><i>chce / je / gra / czyta / idzie / tańczy / płacze</i></u> itp.?;inflection;verb_person;sg:3p;sg:3p;;;;PILOT-GRAM-1;item_703
+item_32;...robicie wspólnie, czy mówi <u><i>jedziemy / idziemy / robimy / gramy / jemy</i></u> itp.?;inflection;verb_person;pl:1p;pl:1p;;;;PILOT-GRAM-1;item_704
+item_33;...Ty robisz z innymi, czy mówi <u><i>chcecie / gracie / czytacie / idziecie</i></u> itp.?;inflection;verb_person;pl:2p;pl:2p;;;;PILOT-GRAM-1;item_705
+item_34;...robią inni, czy mówi <u><i>stoją / biegają / grają / jedzą</i></u> itp.?;inflection;verb_person;pl:3p;pl:3p;;;;PILOT-GRAM-1;item_706
 item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;alternatives;grupa1;;;;;;CDI3;item_707
 item_19;A. Mam worek.%B. Mam worek z butami.;alternatives;grupa1;;;;;;CDI3;item_708
 item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;alternatives;grupa1;;;;;;CDI3;item_709
@@ -729,8 +729,8 @@ item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania,
 item_33;Czy Twoje dziecko używa słowa „żeby” („aby”) w zdaniach takich jak „Myję nogi, żeby były czyste”?;yesNo;wprost;;;;;;CDI3;item_728
 item_22;Czy Twoje dziecko używa słów „która”, „które” („co”) itp., żeby połączyć dwa zdania, np. „Jem ciasto, które zrobiła mama”?;yesNo;wprost;;;;;;CDI3;item_729
 item_27;Czy Twoje dziecko używa słów „żebym”, „żebyś”, „abym”, „abyś” itp. w zdaniach takich jak: „Chcę, żebyś narysowała misia”, „Zapal światło, abym mógł widzieć”?;yesNo;wprost;;;;;;CDI3;item_730
-item_1;Gdy chcemy odnieść się do kilku rzeczy, mówimy np. "balony", "auta", "myszki". Czy Twoje dziecko już tak mówi?;noun;context;;;;;;additional_gram;item_731
-item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;adjective;form;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejsz</u>;adjective;form;;;;;;additional_gram;item_733
-item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;adjective;form;;;;;;additional_gram;item_734
-item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;adjective;form;;;;;;additional_gram;item_735
+item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. ""balony"", ""auta"", ""myszki"". Czy Twoje dziecko już tak mówi?";inflection;nouns_context;;;;;;additional_gram;item_731
+item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_732
+item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejsz</u>;inflection;adjective_form;;;;;;additional_gram;item_733
+item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
+item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
