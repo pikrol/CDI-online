@@ -68,7 +68,7 @@ instr;Słowa pojawiają się w różnych formach w zależności od tego, co chce
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;inflection;noun_context
 catHeader;Czas;inflection;verb_tense
 instr;Również w tej części użyte przez nas słowa to tylko przykłady. Zaznacz ,,czasem" lub ,,często", nawet jeśli Twoje dziecko używa tylko niektórych słów w tej formie, niekoniecznie tych, które podaliśmy. Nie interesują nas też błędy, które Twoje dziecko może popełniać. Nie przejmuj się, jeśli Twoje dziecko mówi na przykład „poszłem” zamiast „poszedłem”. Takie błędy są zupełnie naturalne w mowie dzieci i świadczą o jej rozwoju.;inflection;verb_tense
-choiceNames;zawsze, często, jeszcze nie;inflection;verb_tense
+choiceNames;jeszcze nie, czasem, często;inflection;verb_tense
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;inflection;verb_tense
 catHeader;Osoby;inflection;verb_person
 instr;Gdy Twoje dziecko opowiada o tym, co właśnie...;inflection;verb_person
@@ -82,7 +82,7 @@ instr;Poniższe przykłady wypowiedzi ułożyliśmy parami: w każdej parze jedn
 instr;Poniższe przykłady wypowiedzi ułożyliśmy parami: w każdej parze jedna wersja jest mniej, a druga bardziej złożona. Proszę zaznaczyć wersję, która przypomina wypowiedzi Państwa dziecka. Nie chodzi nam o dokładnie takie sformułowania, jakich użyliśmy w przykładach. Również wyrazy używane przez Państwa dziecko mogą być inne (mogą też występować w nich błędy, np. „chciałambym” zamiast „chciałabym”). Jeżeli obie wersje przypominają wypowiedzi Państwa dziecka, mogą Państwo zaznaczyć obie, a jeśli Państwa dziecko jeszcze w ogóle nie tworzy takich wypowiedzi, proszę nie zaznaczać żadnej z nich.;alternatives;grupa2
 menuButton;Dodatkowe pytania;yesNo;wprost
 header;Dodatkowe pytania;yesNo;wprost
-choiceNames;zawsze, często, jeszcze nie;yesNo;wprost
+choiceNames;jeszcze nie, czasem, często;yesNo;wprost
 instr;Poniżej znajdą Państwo jeszcze listę pytań dotyczących tego, jak Państwa dziecko posługuje się językiem. Odpowiadając na nie, proszę pamiętać, że pytamy o rzeczy, które mogą pojawiać się w różnym wieku, a w dodatku dzieci rozwijają się w różnym tempie: proszę się nie martwić, jeśli na większość tych pytań odpowiedzą Państwo przecząco. Proszę się też nie przejmować, jeśli Państwa dziecko popełnia błędy. Np. jeśli pytamy, czy Państwa dziecko dodaje „-bym” do czasowników, proszę odpowiedzieć twierdząco, jeśli Państwa dziecko mówi np. „chciałambym”.;yesNo;wprost
 tooltip;Zakończenie kwestionariusza będzie możliwe po zatwierdzeniu wszystkich części.;end;
 instr;Jeśli wypełniłaś_eś wszystkie części kwestionariusza, kliknij przycisk „Zatwierdź”.;end;

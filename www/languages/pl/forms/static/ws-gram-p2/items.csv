@@ -731,6 +731,6 @@ item_22;Czy Twoje dziecko używa słów „która”, „które” („co”) it
 item_27;Czy Twoje dziecko używa słów „żebym”, „żebyś”, „abym”, „abyś” itp. w zdaniach takich jak: „Chcę, żebyś narysowała misia”, „Zapal światło, abym mógł widzieć”?;yesNo;wprost;;;;;;CDI3;item_730
 item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. ""balony"", ""auta"", ""myszki"". Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_731
 item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejsz</u>;inflection;adjective_form;;;;;;additional_gram;item_733
+item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_733
 item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
 item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
