@@ -5,9 +5,10 @@ combine,,radio,FALSE,,,TRUE,sentences,"2,3",
 sentences,,sentences,FALSE,,,TRUE,,,
 sentences,sentences10,sentences,FALSE,twoColumns,,,,,
 deixis,,radio,TRUE,,,TRUE,,,
-noun,,oneCheckboxGroup,TRUE,,,TRUE,,,
-noun,context,radio,TRUE,,,TRUE,,,
-verb,,radio,TRUE,,,TRUE,,,
+inflection,noun_form,oneCheckboxGroup,TRUE,,,TRUE,,,
+inflection,adjective_form,oneCheckboxGroup,TRUE,,,TRUE,,,
+inflection,noun_context,radio,TRUE,,,TRUE,,,
+inflection,"verb_tense,verb_person",radio,TRUE,,,TRUE,,,
 alternatives,,checkboxAlt,TRUE,,,TRUE,,,zmiana na disabled
 yesNo,,radio,TRUE,,,TRUE,,,zmiana na disabled
 end,,,FALSE,,,TRUE,,,
