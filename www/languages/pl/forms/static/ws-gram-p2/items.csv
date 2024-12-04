@@ -716,7 +716,6 @@ item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives1;co
 item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives1;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
 item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives2;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
 item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives2;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
-item_32;Czy Twoje dziecko używa form rzeczowników odpowiadających na pytania „o/na/w kim? czym?”, zakończonych na „-ach”, np. „o zabawkach”, „na drzewach”?;sentences;yesNowprost;locative_plural;locative_plural;;;;CDI3;item_724
 item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;complex-because;complex-because;;;;CDI3;item_725
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
