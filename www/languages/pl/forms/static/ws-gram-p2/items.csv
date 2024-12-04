@@ -670,17 +670,16 @@ item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_6
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
 item_674;Czy dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zadania jak np. „am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
-item_1;lalk<b><u>i</u></b>, piłk<b><u>i</u></b>, cioc<b><u>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_672
-item_2;lalc<b><u>e</u></b>, piłc<b><u>e</u></b>, mami<b><u>e</u></b>;inflection;noun_form;dat:fem „-'e”;dat;;;;PILOT-GRAM-1;item_673
-item_3;lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>, cioci<b><u>ę</u></b>;inflection;noun_form;acc:fem „-ę”;acc;;;;PILOT-GRAM-1;item_674
-item_4;lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>, mam<b><u>ą</u></b>;inflection;noun_form;inst:fem „-ą”;inst;;;;PILOT-GRAM-1;item_675
-item_4a;cioc<u><b>i</u></b>, babc<u><b>i</u></b>, stacj<u><b>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_676
-item_5;ps<b><u>a</u></b>, jajk<b><u>a</u></b>, kubk<b><u>a</u></b>;inflection;noun_form;gen:masc „-a”;gen;;;;PILOT-GRAM-1;item_677
-item_5a;ps<b><u>u</u></b>, aut<b><u>u</u></b>, jajk<b><u>u</u></b>;inflection;noun_form;dat:masc „-u”;dat;;;;PILOT-GRAM-1;item_678
-item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;inflection;noun_form;dat:masc „-owi”;dat;;;;PILOT-GRAM-1;item_679
-item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;inst:masc „-em”;inst;;;;PILOT-GRAM-1;item_680
-item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;inflection;noun_form;loc:masc „-u”;loc;;;;PILOT-GRAM-1;item_681
-item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>, banan<b><u>ie</u></b>;inflection;noun_form;loc:masc „-'e”;loc;;;;PILOT-GRAM-1;item_682
+item_3;mam<b><u>ę</u></b>, lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>;inflection;noun_form;acc:fem:sg „-ę“;acc:fem:sg;;;;PILOT-GRAM-1;item_672
+item_2;mami<b><u>e</u></b>, lalc<b><u>e</u></b>, piłc<b><u>e</u></b>;inflection;noun_form;dat/loc:fem:sg „-'e”;dat/loc:fem:sg;;;;PILOT-GRAM-1;item_673
+item_4;mam<b><u>ą</u></b>, lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>;inflection;noun_form;instr:fem:sg „-ą”;instr:fem:sg;;;;PILOT-GRAM-1;item_674
+item_6;kotk<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;inflection;noun_form;dat:masc:sg „-owi”;dat:masc:sg;;;;PILOT-GRAM-1;item_675
+item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>;inflection;noun_form;loc:masc:sg „-'e”;loc:masc:sg;;;;PILOT-GRAM-1;item_676
+item_7;kotki<b><u>em</u></b>, ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;instr:masc:sg „-em”;instr:masc:sg;;;;PILOT-GRAM-1;item_677
+;kotk<b><u>ów</u></b>, ps<b><u>ów</u></b>, rowerk<b><u>ów</u></b>;inflection;noun_form;gen:masc:pl „-ów“;gen:masc:pl;;;;PILOT-GRAM-1;item_678
+;lalk<b><u>om</u></b>, kotk<b><u>om</u></b>, aut<b><u>om</u></b>;inflection;noun_form;dat:pl „-om“;dat:pl;;;;PILOT-GRAM-1;item_679
+;lalk<b><u>ach</u></b>, kotk<b><u>ach</u></b>, aut<b><u>ach</u></b>;inflection;noun_form;loc:pl „-ach“;loc:pl;;;;PILOT-GRAM-1;item_680
+;lalk<b><u>ami</u></b>, kotk<b><u>ami</u></b>, aut<b><u>ami</u></b>;inflection;noun_form;instr:pl „-ami“;instr:pl;;;;PILOT-GRAM-1;item_681
 item_1;Gdy chcemy odnieść się do kilku rzeczy, mówimy np. „balony”, „auta”, „myszki”. Czy Twoje dziecko już tak mówi?;inflection;noun_context;;;;;;additional_gram;item_683
 item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_684
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
