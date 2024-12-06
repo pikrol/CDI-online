@@ -737,3 +737,6 @@ item_2;cieplejszy, grzeczniejszy, ładniejszy;inflection;adjective_form;;;;;;add
 item_3;<u><i>naj</i></u>cieplejszy, <u><i>naj</i></u>grzeczniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_733
 item_4;mocniej, ciszej, zimniej;inflection;adjective_form;;;;;;additional_gram;item_734
 item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej, <u><i>naj</i></u>zimniej;inflection;adjective_form;;;;;;additional_gram;item_735
+item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
+item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
+item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
