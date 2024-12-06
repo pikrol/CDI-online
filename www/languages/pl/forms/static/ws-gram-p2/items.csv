@@ -684,7 +684,7 @@ item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;in
 item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;inst:masc „-em”;inst;;;;PILOT-GRAM-1;item_680
 item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;inflection;noun_form;loc:masc „-u”;loc;;;;PILOT-GRAM-1;item_681
 item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>, banan<b><u>ie</u></b>;inflection;noun_form;loc:masc „-'e”;loc;;;;PILOT-GRAM-1;item_682
-item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. „balony”, „auta”, „myszki”. Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_683
+item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. <u>balony</u>/<u>auta</u>/<u>myszki<u/>. Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_683
 item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_684
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
 item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_686
@@ -733,7 +733,7 @@ item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania,
 item_33;Czy Twoje dziecko używa słowa „żeby” („aby”) w zdaniach takich jak „Myję nogi, żeby były czyste”?;sentences;yesNowprost;;;;;;CDI3;item_729
 item_22;Czy Twoje dziecko używa słów „która”, „które” („co”) itp., żeby połączyć dwa zdania, np. „Jem ciasto, które zrobiła mama”?;sentences;yesNowprost;;;;;;CDI3;item_730
 item_27;Czy Twoje dziecko używa słów „żebym”, „żebyś”, „abym”, „abyś” itp. w zdaniach takich jak: „Chcę, żebyś narysowała misia”, „Zapal światło, abym mógł widzieć”?;sentences;yesNowprost;;;;;;CDI3;item_731
-item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_733
-item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
-item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
+item_2;cieplejszy, grzeczniejszy, ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_732
+item_3;<u><i>naj</i></u>cieplejszy, <u><i>naj</i></u>grzeczniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_733
+item_4;mocniej, ciszej, zimniej;inflection;adjective_form;;;;;;additional_gram;item_734
+item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej, <u><i>naj</i></u>zimniej;inflection;adjective_form;;;;;;additional_gram;item_735

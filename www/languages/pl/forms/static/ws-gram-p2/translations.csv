@@ -36,7 +36,7 @@ catHeader;Nazwy czynności: czasowniki;word;action_words
 catHeader;Określenia miejsca;word;locations
 catHeader;Określenia czasu;word;time_words
 note;item_563%w takich zdaniach jak np. „Jeszcze pisać!”, „Jeszcze raz mi to zrób!” albo „Jeszcze nie wypiłam”.;word;time_words
-note;item_574,item_573%Proszę zaznaczyć odpowiednie kółko, nawet jeśli dziecko używa tych określeń błędnie, np. „Jutro Jaś jadł lody.” albo „Ciocia przyjdzie wczoraj”.;word;time_words
+note;item_574,item_573%Proszę zaznaczyć odpowiednie słowo, nawet jeśli dziecko używa tych określeń błędnie, np. „Jutro Jaś jadł lody.” albo „Ciocia przyjdzie wczoraj”.;word;time_words
 catHeader;Określenia miary;word;quantifiers
 note;item_585%w takich zdaniach jak np. „Jeszcze mleka!”, „Jeszcze jedną truskawkę mi daj!”.;word;quantifiers
 note;item_591%w takich zdaniach jak np. „Zjem tylko serek”.;word;quantifiers
@@ -49,7 +49,7 @@ catHeader;Przyimki;word;prepositions
 catHeader;Spójniki;word;connecting_words
 note;item_667%w takich zdaniach jak np. „Jak mama przyjdzie, (to) da mi jeść”.;word;connecting_words
 note;item_668%w takich zdaniach jak np. „To nie pies, tylko kot”.;word;connecting_words
-help;Przed zatwierdzeniem proszę sprawdzić, czy nie pominęłaś_eś jakiejś strony? Czy na pewno zaznaczone są wszystkie wyrazy, które Twoje dziecko mówi?;word;connecting_words
+help;Przed zatwierdzeniem sprawdź, czy nie pominęłaś_eś jakiejś strony? Czy na pewno zaznaczone są wszystkie wyrazy, które Twoje dziecko mówi?;word;connecting_words
 help;Po wybraniu odpowiedzi „Czasem” lub „Często” dostępna stanie się zakładka „Wypowiedzi”.;combine;
 menuButton;Wypowiedzi;sentences;
 catHeader;Trzy najdłuższe zdania;sentences;sentences3
