@@ -1,6 +1,6 @@
 type,category,input_type,comment,css_class,binded_types,initially_disabled,conditions,answers_to_enable
 start,,demographic,TRUE,,,FALSE,"word,combine,deixis,verb,noun,alternatives,yesNo,sentences,inflection,demographic_additional",all
-demographic_additional,,radioVertical,FALSE,,,TRUE,,
+demographic_additional,,radioVertical,TRUE,,,TRUE,,
 word,,oneCheckboxGroup,TRUE,threeColumns,,TRUE,,
 deixis,,radio,TRUE,,,TRUE,,
 inflection,,oneCheckboxGroup,TRUE,,,TRUE,,
