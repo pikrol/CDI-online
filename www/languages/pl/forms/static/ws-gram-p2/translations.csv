@@ -52,7 +52,7 @@ note;item_668%w takich zdaniach jak np. „To nie pies, tylko kot”.;word;conne
 help;Przed zatwierdzeniem sprawdź, czy nie pominęłaś_eś jakiejś strony? Czy na pewno zaznaczone są wszystkie wyrazy, które Twoje dziecko mówi?;word;connecting_words
 help;Po wybraniu odpowiedzi „Czasem” lub „Często” dostępna stanie się zakładka „Wypowiedzi”.;combine;
 choiceNames;jeszcze nie,czasem,często;combine;
-menuButton;Wypowiedzi;sentences;
+menuButton;Zdania;sentences;
 catHeader;Trzy najdłuższe zdania;sentences;sentences3
 longText;Proszę podać przykłady trzech najdłuższych zdań, jakie ostatnio słyszałaś_eś od swojego dziecka. (Chodzi o wypowiedzi samodzielne, a nie wierszyki, piosenki itp.) Prosimy o podanie przykładów rzeczywistych zdań dziecka, nawet jeśli uważasz, że Twoje dziecko „mówi już wszystko”.;sentences;sentences3
 menuButton;Naśladownictwo;starting_to_talk;
