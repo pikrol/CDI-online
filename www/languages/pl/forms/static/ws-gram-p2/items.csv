@@ -673,17 +673,16 @@ item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_6
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
 item_674;Czy dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zadania jak np. „am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
-item_1;lalk<b><u>i</u></b>, piłk<b><u>i</u></b>, cioc<b><u>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_672
-item_2;lalc<b><u>e</u></b>, piłc<b><u>e</u></b>, mami<b><u>e</u></b>;inflection;noun_form;dat:fem „-'e”;dat;;;;PILOT-GRAM-1;item_673
-item_3;lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>, cioci<b><u>ę</u></b>;inflection;noun_form;acc:fem „-ę”;acc;;;;PILOT-GRAM-1;item_674
-item_4;lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>, mam<b><u>ą</u></b>;inflection;noun_form;inst:fem „-ą”;inst;;;;PILOT-GRAM-1;item_675
-item_4a;cioc<u><b>i</u></b>, babc<u><b>i</u></b>, stacj<u><b>i</u></b>;inflection;noun_form;gen:fem „-i”;gen;;;;PILOT-GRAM-1;item_676
-item_5;ps<b><u>a</u></b>, jajk<b><u>a</u></b>, kubk<b><u>a</u></b>;inflection;noun_form;gen:masc „-a”;gen;;;;PILOT-GRAM-1;item_677
-item_5a;ps<b><u>u</u></b>, aut<b><u>u</u></b>, jajk<b><u>u</u></b>;inflection;noun_form;dat:masc „-u”;dat;;;;PILOT-GRAM-1;item_678
-item_6;kotk<b><u>owi</u></b>, klock<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;inflection;noun_form;dat:masc „-owi”;dat;;;;PILOT-GRAM-1;item_679
-item_7;ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;inst:masc „-em”;inst;;;;PILOT-GRAM-1;item_680
-item_8;kotk<b><u>u</u></b>, dom<b><u>u</u></b>, rowerk<b><u>u</u></b>;inflection;noun_form;loc:masc „-u”;loc;;;;PILOT-GRAM-1;item_681
-item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>, banan<b><u>ie</u></b>;inflection;noun_form;loc:masc „-'e”;loc;;;;PILOT-GRAM-1;item_682
+item_3;mam<b><u>ę</u></b>, lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>;inflection;noun_form;acc:fem:sg „-ę“;acc:fem:sg;;;;PILOT-GRAM-1;item_672
+item_2;mami<b><u>e</u></b>, lalc<b><u>e</u></b>, piłc<b><u>e</u></b>;inflection;noun_form;dat/loc:fem:sg „-'e”;dat/loc:fem:sg;;;;PILOT-GRAM-1;item_673
+item_4;mam<b><u>ą</u></b>, lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>;inflection;noun_form;instr:fem:sg „-ą”;instr:fem:sg;;;;PILOT-GRAM-1;item_674
+item_6;kotk<b><u>owi</u></b>, rowerk<b><u>owi</u></b>;inflection;noun_form;dat:masc:sg „-owi”;dat:masc:sg;;;;PILOT-GRAM-1;item_675
+item_9;ps<b><u>ie</u></b>, auc<b><u>ie</u></b>;inflection;noun_form;loc:masc:sg „-'e”;loc:masc:sg;;;;PILOT-GRAM-1;item_676
+item_7;kotki<b><u>em</u></b>, ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b><u>em</u></b>;inflection;noun_form;instr:masc:sg „-em”;instr:masc:sg;;;;PILOT-GRAM-1;item_677
+;kotk<b><u>ów</u></b>, ps<b><u>ów</u></b>, rowerk<b><u>ów</u></b>;inflection;noun_form;gen:masc:pl „-ów“;gen:masc:pl;;;;PILOT-GRAM-1;item_678
+;lalk<b><u>om</u></b>, kotk<b><u>om</u></b>, aut<b><u>om</u></b>;inflection;noun_form;dat:pl „-om“;dat:pl;;;;PILOT-GRAM-1;item_679
+;lalk<b><u>ach</u></b>, kotk<b><u>ach</u></b>, aut<b><u>ach</u></b>;inflection;noun_form;loc:pl „-ach“;loc:pl;;;;PILOT-GRAM-1;item_680
+;lalk<b><u>ami</u></b>, kotk<b><u>ami</u></b>, aut<b><u>ami</u></b>;inflection;noun_form;instr:pl „-ami“;instr:pl;;;;PILOT-GRAM-1;item_681
 item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. <u>balony</u>/<u>auta</u>/<u>myszki<u/>. Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_683
 item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_684
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
@@ -709,34 +708,24 @@ item_31;...robi ktoś inny, czy mówi <u><i>chce / je / gra / czyta / idzie / ta
 item_32;...robicie wspólnie, czy mówi <u><i>jedziemy / idziemy / robimy / gramy / jemy</i></u> itp.?;inflection;verb_person;pl:1p;pl:1p;;;;PILOT-GRAM-1;item_705
 item_33;...Ty robisz z innymi, czy mówi <u><i>chcecie / gracie / czytacie / idziecie</i></u> itp.?;inflection;verb_person;pl:2p;pl:2p;;;;PILOT-GRAM-1;item_706
 item_34;...robią inni, czy mówi <u><i>stoją / biegają / grają / jedzą</i></u> itp.?;inflection;verb_person;pl:3p;pl:3p;;;;PILOT-GRAM-1;item_707
-item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives1;;;;;;CDI3;item_708
-item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives1;;;;;;CDI3;item_709
-item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives1;;;;;;CDI3;item_710
-item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives1;;;;;;CDI3;item_711
-item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives1;;;;;;CDI3;item_712
-item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives1;;;;;;CDI3;item_713
-item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives1;;;;;;CDI3;item_714
-item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives1;;;;;;CDI3;item_715
-item_21;A. Odkręć wodę.%B. Odkręć wodę, żebym umył(-a) rączki.;sentences;alternatives2;;;;;;CDI3;item_716
-item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives2;;;;;;CDI3;item_717
-item_9;A. Będzie ciepło. Pójdę na spacer.%B. Pójdę na spacer, jeśli będzie ciepło.;sentences;alternatives2;;;;;;CDI3;item_718
-item_8;A. Babcia dała mi książeczkę. Oglądam książeczkę.%B. Oglądam książeczkę, którą dała mi babcia.;sentences;alternatives2;;;;;;CDI3;item_719
-item_11;A. Będzie padać. Zostaniemy w domu.%B. Jeśli będzie padać, zostaniemy w domu.;sentences;alternatives2;;;;;;CDI3;item_720
-item_12;A. Jest ładna pogoda i pójdziemy na spacer.%B. Jest ładna pogoda, więc pójdziemy na spacer.;sentences;alternatives2;;;;;;CDI3;item_721
-item_6;A. Wracałem(-am) do domu. Widziałem(-am) kolegę.%B. Wracając do domu, widziałem(-am) kolegę.;sentences;alternatives2;;;;;;CDI3;item_722
-item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives2;;;;;;CDI3;item_723
-item_32;Czy Twoje dziecko używa form rzeczowników odpowiadających na pytania „o/na/w kim? czym?”, zakończonych na „-ach”, np. „o zabawkach”, „na drzewach”?;sentences;yesNowprost;;;;;;CDI3;item_724
-item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;;;;;;CDI3;item_725
-item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;;;;;;CDI3;item_726
-item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;;;;;;CDI3;item_727
-item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;;;;;;CDI3;item_728
-item_33;Czy Twoje dziecko używa słowa „żeby” („aby”) w zdaniach takich jak „Myję nogi, żeby były czyste”?;sentences;yesNowprost;;;;;;CDI3;item_729
-item_22;Czy Twoje dziecko używa słów „która”, „które” („co”) itp., żeby połączyć dwa zdania, np. „Jem ciasto, które zrobiła mama”?;sentences;yesNowprost;;;;;;CDI3;item_730
-item_27;Czy Twoje dziecko używa słów „żebym”, „żebyś”, „abym”, „abyś” itp. w zdaniach takich jak: „Chcę, żebyś narysowała misia”, „Zapal światło, abym mógł widzieć”?;sentences;yesNowprost;;;;;;CDI3;item_731
-item_2;cieplejszy, grzeczniejszy, ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i></u>cieplejszy, <u><i>naj</i></u>grzeczniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_733
-item_4;mocniej, ciszej, zimniej;inflection;adjective_form;;;;;;additional_gram;item_734
-item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej, <u><i>naj</i></u>zimniej;inflection;adjective_form;;;;;;additional_gram;item_735
+item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives1;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
+item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives1;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
+item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives1;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
+item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives1;indirect „Babcia przyjedzie.”;indirect;;;;CDI3;item_711
+item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives1;complex-sothat „Myję nogi. Będą czyste.”;complex-sothat;;;;CDI3;item_712
+item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives1;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
+item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives1;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
+item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives1;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
+item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives2;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
+item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives2;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
+item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;complex-because;complex-because;;;;CDI3;item_725
+item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
+item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
+item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
+item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_732
+item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_733
+item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
+item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
 item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
 item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
 item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
