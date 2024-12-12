@@ -1,4 +1,7 @@
 org_item_id;definition;type;category;gram_label;gram_category;lexical_category;lexical_class;uni_lemma;origin;item_id
+item_1;Jaki jest Twój poziom wyształcenia?;demographic_additional;demographic_education;;;;;;demo_add;item_001d
+item_2;Jakie jest województwo/region zamieszkania dziecka?;demographic_additional;demographic_voivodeship;;;;;;demo_add;item_002d
+item_3;Jaki jest typ miejscowości zamieszkania dziecka?;demographic_additional;demographic_residencesize;;;;;;demo_add;item_003d
 item_1;gę gę;word;sounds;;;other;other;quack quack;WS;item_001
 item_2;hau hau;word;sounds;;;other;other;woof woof;WS;item_002
 item_3;ko ko ko;word;sounds;;;other;other;cluck cluck;WS;item_003
@@ -680,7 +683,7 @@ item_7;kotki<b><u>em</u></b>, ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b
 ;lalk<b><u>om</u></b>, kotk<b><u>om</u></b>, aut<b><u>om</u></b>;inflection;noun_form;dat:pl „-om“;dat:pl;;;;PILOT-GRAM-1;item_679
 ;lalk<b><u>ach</u></b>, kotk<b><u>ach</u></b>, aut<b><u>ach</u></b>;inflection;noun_form;loc:pl „-ach“;loc:pl;;;;PILOT-GRAM-1;item_680
 ;lalk<b><u>ami</u></b>, kotk<b><u>ami</u></b>, aut<b><u>ami</u></b>;inflection;noun_form;instr:pl „-ami“;instr:pl;;;;PILOT-GRAM-1;item_681
-item_1;Gdy chcemy odnieść się do kilku rzeczy, mówimy np. „balony”, „auta”, „myszki”. Czy Twoje dziecko już tak mówi?;inflection;noun_context;;;;;;additional_gram;item_683
+item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. <u>balony</u>/<u>auta</u>/<u>myszki<u/>. Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_683
 item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_684
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
 item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_686
@@ -723,3 +726,21 @@ item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;ad
 item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_733
 item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
 item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
+item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
+item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
+item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
+item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives3;;;;;;smocz;item_739
+item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives3;;;;;;smocz;item_740
+item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives3;;;;;;smocz;item_741
+item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives3;;;;;;smocz;item_742
+item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives3;;;;;;smocz;item_743
+item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives3;;;;;;smocz;item_744
+item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives3;;;;;;smocz;item_745
+item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives3;;;;;;smocz;item_746
+item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives3;;;;;;smocz;item_747
+item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives3;;;;;;smocz;item_748
+item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives3;;;;;;smocz;item_749
+item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives3;;;;;;smocz;item_750
+item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives3;;;;;;smocz;item_751
+item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives3;;;;;;smocz;item_752
+item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives3;;;;;;smocz;item_753
