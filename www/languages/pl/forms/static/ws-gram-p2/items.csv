@@ -716,31 +716,31 @@ item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentence
 item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives1;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
 item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives1;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
 item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives1;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
-item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives2;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
-item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives2;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
+item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives1;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
+item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives1;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
 item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;complex-because;complex-because;;;;CDI3;item_725
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
 item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
-item_2;<u>cieplejszy</u>, <u>grzeczniejszy</u>, <u>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i>cieplejszy</u>, <u><i>naj</i>grzeczniejszy</u>, <u><i>naj</i>ładniejszy</u>;inflection;adjective_form;;;;;;additional_gram;item_733
-item_4;<u>mocniej</u>, <u>ciszej</u>, <u>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_734
-item_5;<u><i>naj</i>mocniej</u>, <u><i>naj</i>ciszej</u>, <u><i>naj</i>zimniej</u>;inflection;adjective_form;;;;;;additional_gram;item_735
+item_2;cieplejszy, grzeczniejszy, ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_732
+item_3;<u><i>naj</i></u>cieplejszy, <u><i>naj</i></u>grzeczniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_form;;;;;;additional_gram;item_733
+item_4;mocniej, ciszej, zimniej;inflection;adjective_form;;;;;;additional_gram;item_734
+item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej, <u><i>naj</i></u>zimniej;inflection;adjective_form;;;;;;additional_gram;item_735
 item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
 item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
 item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
-item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives3;;;;;;smocz;item_739
-item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives3;;;;;;smocz;item_740
-item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives3;;;;;;smocz;item_741
-item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives3;;;;;;smocz;item_742
-item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives3;;;;;;smocz;item_743
-item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives3;;;;;;smocz;item_744
-item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives3;;;;;;smocz;item_745
-item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives3;;;;;;smocz;item_746
-item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives3;;;;;;smocz;item_747
-item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives3;;;;;;smocz;item_748
-item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives3;;;;;;smocz;item_749
-item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives3;;;;;;smocz;item_750
-item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives3;;;;;;smocz;item_751
-item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives3;;;;;;smocz;item_752
-item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives3;;;;;;smocz;item_753
+item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives3;;;;;;ms_items;item_739
+item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives3;;;;;;ms_items;item_740
+item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives3;;;;;;ms_items;item_741
+item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives3;;;;;;ms_items;item_742
+item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives3;;;;;;ms_items;item_743
+item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives3;;;;;;ms_items;item_744
+item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives3;;;;;;ms_items;item_745
+item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives3;;;;;;ms_items;item_746
+item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives3;;;;;;ms_items;item_747
+item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives3;;;;;;ms_items;item_748
+item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives3;;;;;;ms_items;item_749
+item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives3;;;;;;ms_items;item_750
+item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives3;;;;;;ms_items;item_751
+item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives3;;;;;;ms_items;item_752
+item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives3;;;;;;ms_items;item_753
