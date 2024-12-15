@@ -720,10 +720,10 @@ item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połą
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
 item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
-item_2;cieplejszy, grzeczniejszy, ładniejszy;inflection;adjective_adverb;;;;;;additional_gram;item_732
-item_3;<u><i>naj</i></u>cieplejszy, <u><i>naj</i></u>grzeczniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_adverb;;;;;;additional_gram;item_733
-item_4;mocniej, ciszej, zimniej;inflection;adjective_adverb;;;;;;additional_gram;item_734
-item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej, <u><i>naj</i></u>zimniej;inflection;adjective_adverb;;;;;;additional_gram;item_735
+item_2;pyszniejszy, fajniejszy, ładniejszy;inflection;adjective_adverb;;;;;;additional_gram;item_732
+item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejszy, <u><i>naj</i></u>ładniejszy;inflection;adjective_adverb;;;;;;additional_gram;item_733
+item_4;mocniej, ciszej;inflection;adjective_adverb;;;;;;additional_gram;item_734
+item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;;;;;;additional_gram;item_735
 item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
 item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
 item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
