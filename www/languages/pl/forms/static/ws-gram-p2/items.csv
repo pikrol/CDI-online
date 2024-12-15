@@ -683,7 +683,7 @@ item_7;kotki<b><u>em</u></b>, ps<b><u>em</u></b>, aut<b><u>em</u></b>, rowerki<b
 ;lalk<b><u>om</u></b>, kotk<b><u>om</u></b>, aut<b><u>om</u></b>;inflection;noun_form;dat:pl „-om“;dat:pl;;;;PILOT-GRAM-1;item_679
 ;lalk<b><u>ach</u></b>, kotk<b><u>ach</u></b>, aut<b><u>ach</u></b>;inflection;noun_form;loc:pl „-ach“;loc:pl;;;;PILOT-GRAM-1;item_680
 ;lalk<b><u>ami</u></b>, kotk<b><u>ami</u></b>, aut<b><u>ami</u></b>;inflection;noun_form;instr:pl „-ami“;instr:pl;;;;PILOT-GRAM-1;item_681
-item_1;"Gdy chcemy odnieść się do kilku rzeczy, mówimy np. <u>balony</u>/<u>auta</u>/<u>myszki<u/>. Czy Twoje dziecko już tak mówi?";inflection;noun_context;;;;;;additional_gram;item_683
+item_1;Gdy chcemy powiedzieć o więcej niż jednej rzeczy, mówimy np. „balony”, a nie „balon”, „auta”, a nie „auto”, „myszki”, a nie „myszka”. Czy Twoje dziecko tak mówi?;inflection;noun_context;pl;pl;;;;additional_gram;item_683
 item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma... (np. <u>mamy/pieska/auta</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „nie ma”;gen;;;;PILOT-GRAM-1;item_684
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
 item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_686
