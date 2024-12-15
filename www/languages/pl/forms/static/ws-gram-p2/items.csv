@@ -688,8 +688,6 @@ item_10;Gdy chcemy powiedzieć, że kogoś lub czegoś nie ma, mówimy „Nie ma
 item_11;Gdy chcemy powiedzieć, o tym dokąd idziemy, mówimy „Idziemy do... (np. <u>babci/domku/przedszkola</u>)” Czy twoje dziecko tak mówi?;inflection;noun_context;gen „do”;gen;;;;PILOT-GRAM-1;item_685
 item_12;Gdy chcemy powiedzieć, o tym czego się boimy, mówimy „Boję się... (np. <u>potworów/osy/pająka</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;gen „boję się”;gen;;;;PILOT-GRAM-1;item_686
 item_13;Gdy chcemy powiedzieć o dawaniu komuś zabawki, mówimy „Dam zabawkę... (np. <u>dziadkowi/mamusi/psu</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;dat „dam”;dat;;;;PILOT-GRAM-1;item_687
-item_14;Gdy chcemy powiedzieć, o tym co chcemy zjeść, mówimy „Chcę... (np. <u>kanapkę/klocki/jajko</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;acc „chcę”;acc;;;;PILOT-GRAM-1;item_688
-item_15;Gdy chcemy powiedzieć o myciu czegoś, mówimy „Myję... (np. <u>buzię/ząbki/ręce</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;acc „myję”;acc;;;;PILOT-GRAM-1;item_689
 item_17;Gdy chcemy powiedzieć o tym, czym jedziemy, mówimy „Jedziemy... (np. <u>autem/karocą/autobusem</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;inst „jedziemy”;inst;;;;PILOT-GRAM-1;item_690
 item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy „Bawię się... (np. <u>klockami/lalką/autem</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;inst „bawię się”;inst;;;;PILOT-GRAM-1;item_691
 item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy „[Ktoś] jest w... (np. <u>w domku/w pracy/w sklepie</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;loc „w”;loc;;;;PILOT-GRAM-1;item_692
