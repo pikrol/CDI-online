@@ -54,7 +54,7 @@ help;Po wybraniu odpowiedzi „Czasem” lub „Często” dostępna stanie się
 choiceNames;jeszcze nie,czasem,często;combine;
 menuButton;Zdania;sentences;
 catHeader;Trzy najdłuższe zdania;sentences;sentences3
-longText;Podaj przykłady trzech najdłuższych zdań, jakie ostatnio słyszałaś_eś od swojego dziecka. (Chodzi o wypowiedzi samodzielne, a nie wierszyki, piosenki itp.) Prosimy o podanie przykładów rzeczywistych zdań dziecka, nawet jeśli uważasz, że Twoje dziecko „mówi już wszystko”.;sentences;sentences3
+longText;Podaj przykłady trzech najdłuższych zdań, jakie ostatnio słyszałaś_eś od swojego dziecka. (Chodzi o wypowiedzi samodzielne, a nie wierszyki, piosenki itp.) Podaj rzeczywistych zdań dziecka, nawet jeśli uważasz, że Twoje dziecko „mówi już wszystko”.;sentences;sentences3
 menuButton;Naśladownictwo;starting_to_talk;
 header;Naśladownictwo;starting_to_talk;
 choiceNames;Tak, Nie;starting_to_talk;
