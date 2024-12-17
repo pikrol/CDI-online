@@ -9,8 +9,8 @@ noFiller;Odpowiedz, kim jesteś dla dziecka.;;
 fillerLabel;Kim jesteś dla dziecka?;;
 fillers;mama,tata,inna odpowiedź (proszę wpisać):;;
 menuButton;Pytania wstępne;demographic_additional;
-choiceNames;podstawowe, zawodowe, średnie, niepełne wyższe, wyższe, doktorat;demographic_additional;demographic_education
-choiceNames;Dolnośląskie, Kujawsko-Pomorskie, Lubelskie, Lubuskie, Łódzkie, Małopolskie, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Śląskie, Świętokrzyskie, Warmińsko-Mazurskie, Wielkopolskie, Zachodniopomorskie, Dziecko mieszka w innym kraju niż Polska;demographic_additional;demographic_voivodeship
+choiceNames;podstawowe, zawodowe, średnie, niepełne wyższe, wyższe;demographic_additional;demographic_education
+choiceNames;dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, łódzkie, małopolskie, mazowieckie, opolskie, podkarpackie, podlaskie, pomorskie, śląskie, świętokrzyskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, Mieszkam za granicą;demographic_additional;demographic_voivodeship
 choiceNames;wieś, małe miasto (poniżej 100 000 mieszkańców), duże miasto (co najmniej 100 000 mieszkańców);demographic_additional;demographic_residencesize
 header;Lista słów używanych przez dziecko;word;
 menuButton;Słowa;word;
