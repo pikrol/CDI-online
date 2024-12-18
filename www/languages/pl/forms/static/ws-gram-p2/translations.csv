@@ -59,7 +59,9 @@ longText;Podaj przykłady trzech najdłuższych zdań, jakie ostatnio słyszała
 menuButton;Naśladownictwo;starting_to_talk;
 header;Naśladownictwo;starting_to_talk;
 choiceNames;Tak, Nie;starting_to_talk;
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;starting_to_talk;
 menuButton;Poza tu i teraz;deixis;
+header;Poza tu i teraz;deixis;
 choiceNames;jeszcze nie, czasem, często;deixis;
 help;Czy odpowiedziałaś_eś na wszystkie pytania?;deixis;
 menuButton;Odmiana słów;inflection;
