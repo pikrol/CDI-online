@@ -672,7 +672,7 @@ item_667;jak - (to);word;connecting_words;;;function_words;conjunctions;if - (th
 item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_668
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
-item_674;Czy dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zadania jak np. „am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
+item_674;Czy Twoje dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zdania jak np. „dzidzi am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
 item_3;mam<b><u>ę</u></b>, lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>;inflection;noun_form;acc:fem:sg „-ę“;acc:fem:sg;;;;PILOT-GRAM-1;item_672
 item_2;mami<b><u>e</u></b>, lalc<b><u>e</u></b>, piłc<b><u>e</u></b>;inflection;noun_form;dat/loc:fem:sg „-'e”;dat/loc:fem:sg;;;;PILOT-GRAM-1;item_673
 item_4;mam<b><u>ą</u></b>, lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>;inflection;noun_form;instr:fem:sg „-ą”;instr:fem:sg;;;;PILOT-GRAM-1;item_674
