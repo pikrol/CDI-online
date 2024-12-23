@@ -1,7 +1,7 @@
 org_item_id;definition;type;category;gram_label;gram_category;lexical_category;lexical_class;uni_lemma;origin;item_id
-item_1;Jaki jest Twój poziom wyształcenia?;demographic_additional;demographic_education;;;;;;demo_add;item_001d
-item_2;W jakim województwie/regionie mieszkasz?;demographic_additional;demographic_voivodeship;;;;;;demo_add;item_002d
-item_3;Jaka jest wielkość miejscowości, w której mieszkasz?;demographic_additional;demographic_residencesize;;;;;;demo_add;item_003d
+item_2;W jakim województwie mieszkasz?;demographic_additional;demographic_voivodeship;;;;;;demo_add;item_001d
+item_3;Jaka jest wielkość miejscowości, w której mieszkasz?;demographic_additional;demographic_residencesize;;;;;;demo_add;item_002d
+item_1;Jaki jest Twój poziom wyształcenia?;demographic_additional;demographic_education;;;;;;demo_add;item_003d
 item_1;gę gę;word;sounds;;;other;other;quack quack;WS;item_001
 item_2;hau hau;word;sounds;;;other;other;woof woof;WS;item_002
 item_3;ko ko ko;word;sounds;;;other;other;cluck cluck;WS;item_003
@@ -672,7 +672,7 @@ item_667;jak - (to);word;connecting_words;;;function_words;conjunctions;if - (th
 item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_668
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
-item_674;Czy dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zadania jak np. „am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
+item_674;Czy Twoje dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zdania jak np. „dzidzi am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
 item_3;mam<b><u>ę</u></b>, lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>;inflection;noun_form;acc:fem:sg „-ę“;acc:fem:sg;;;;PILOT-GRAM-1;item_672
 item_2;mami<b><u>e</u></b>, lalc<b><u>e</u></b>, piłc<b><u>e</u></b>;inflection;noun_form;dat/loc:fem:sg „-'e”;dat/loc:fem:sg;;;;PILOT-GRAM-1;item_673
 item_4;mam<b><u>ą</u></b>, lalk<b><u>ą</u></b>, piłk<b><u>ą</u></b>;inflection;noun_form;instr:fem:sg „-ą”;instr:fem:sg;;;;PILOT-GRAM-1;item_674
@@ -692,11 +692,11 @@ item_17;Gdy chcemy powiedzieć o tym, czym jedziemy (płyniemy itp.), mówimy �
 item_18;Gdy chcemy powiedzieć o tym, czym się bawimy, mówimy „Bawię się... (np. <u>klockami/lalką/autem</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;inst „bawię się”;inst;;;;PILOT-GRAM-1;item_691
 item_19;Gdy chcemy powiedzieć, o tym, gdzie ktoś jest, mówimy „[Ktoś] jest w... (np. <u>w domku/w pracy/w sklepie</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;loc „w”;loc;;;;PILOT-GRAM-1;item_692
 item_20;Gdy chcemy powiedzieć, o czym jest bajka (film itp.), mówimy „Bajka (film itp.) jest o... (np.  <u>autach/księżniczce/piesku</u>)”. Czy twoje dziecko tak mówi?;inflection;noun_context;loc „o”;loc;;;;PILOT-GRAM-1;item_693
-item_21;Czy Twoje dziecko opowiada o wydarzeniach z przeszłości oraz o rzeczach i osobach, które pamięta? Np. jeśli w zeszłym tygodniu byliście z rodziną nad jeziorem, może później mówi „rybki”, „wujek”, „pływa”?;deixis;deixis;ref_past;ref_past;;;;PILOT-GRAM-1;item_694
-item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości, np. mówi „auto”, zanim wyruszycie w podróż, lub „babcia”, kiedy babcia ma Was odwiedzić?;deixis;deixis;ref_future;ref_future;;;;PILOT-GRAM-1;item_695
-item_23;Czy Twoje dziecko <u>rozumie</u>, gdy rozmawiacie o czymś, co jest poza zasięgiem wzroku, np. pytacie „Gdzie jest kubek”, a ono idzie do kuchni i przynosi kubek?;deixis;deixis;ref_nothere_comp;ref_nothere_comp;;;;PILOT-GRAM-1;item_696
-item_24;Czy Twoje dziecko <u>mówi</u> o czymś lub kimś, co/kto jest poza zasięgiem wzroku, np. o zgubionej zabawce lub o osobie, która jest nieobecna?;deixis;deixis;ref_nothere_prod;ref_nothere_prod;;;;PILOT-GRAM-1;item_697
-item_25;Czy Twoje dziecko pokazuje na przedmiot należący do danej osoby i przypisuje tę rzecz osobie, np. pokazuje na buty taty i mówi „tata”?;deixis;deixis;ref_possession;ref_possession;;;;PILOT-GRAM-1;item_698
+item_21;Czy Twoje dziecko opowiada o wydarzeniach z przeszłości oraz o rzeczach i osobach, które pamięta? Np. jeśli w zeszłym tygodniu byliście z rodziną nad jeziorem, może później mówi „rybki”, „wujek”, „pływa”?;deixis;ref_past;ref_past;;;;PILOT-GRAM-1;item_694
+item_22;Czy Twoje dziecko mówi o tym, co będzie się działo w przyszłości, np. mówi „auto”, zanim wyruszycie w podróż, lub „babcia”, kiedy babcia ma Was odwiedzić?;deixis;ref_future;ref_future;;;;PILOT-GRAM-1;item_695
+item_23;Czy Twoje dziecko <u>rozumie</u>, gdy rozmawiacie o czymś, co jest poza zasięgiem wzroku, np. pytacie „Gdzie jest kubek”, a ono idzie do kuchni i przynosi kubek?;deixis;ref_nothere_comp;ref_nothere_comp;;;;PILOT-GRAM-1;item_696
+item_24;Czy Twoje dziecko <u>mówi</u> o czymś lub kimś, co/kto jest poza zasięgiem wzroku, np. o zgubionej zabawce lub o osobie, która jest nieobecna?;deixis;ref_nothere_prod;ref_nothere_prod;;;;PILOT-GRAM-1;item_697
+item_25;Czy Twoje dziecko pokazuje na przedmiot należący do danej osoby i przypisuje tę rzecz osobie, np. pokazuje na buty taty i mówi „tata”?;deixis;ref_possession;ref_possession;;;;PILOT-GRAM-1;item_698
 item_26;Gdy mówimy, o tym co działo się w przeszłości, używamy form takich jak <u><i>zjadłem/zjadłam</i></u>, <u><i>bawiłeś/bawiłaś się</i></u>, <u><i>czytaliśmy/czytałyśmy</i></u>, <u><i>rysowaliście/rysowałyście</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;past;past;;;;PILOT-GRAM-1;item_699
 item_27;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać słów takich jak <u><i>narysuję</i></u>, <u><i>zjesz</i></u>, <u><i>umyje</i></u>, <u><i>zagramy</i></u>, <u><i>przeczytacie</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;future_perfect;future_perfect;;;;PILOT-GRAM-1;item_700
 item_28;Gdy mówimy o tym, co będzie się działo w przyszłości, możemy używać wyrażeń takich jak <u><i>będę rysować</i></u>, <u><i>będziesz jeść</i></u>, <u><i>będzie się myć</i></u>, <u><i>będziemy grać</i></u>, <u><i>będziecie czytać</i></u>... Czy Twoje dziecko tak mówi?;inflection;verb_tense;future_imperfect;future_imperfect;;;;PILOT-GRAM-1;item_701
