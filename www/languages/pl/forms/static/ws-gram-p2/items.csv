@@ -706,6 +706,10 @@ item_31;...robi ktoś inny, czy mówi <u><i>chce / je / gra / czyta / idzie / ta
 item_32;...robicie wspólnie, czy mówi <u><i>jedziemy / idziemy / robimy / gramy / jemy</i></u> itp.?;inflection;verb_person;pl:1p;pl:1p;;;;PILOT-GRAM-1;item_705
 item_33;...Ty robisz z innymi, czy mówi <u><i>chcecie / gracie / czytacie / idziecie</i></u> itp.?;inflection;verb_person;pl:2p;pl:2p;;;;PILOT-GRAM-1;item_706
 item_34;...robią inni, czy mówi <u><i>stoją / biegają / grają / jedzą</i></u> itp.?;inflection;verb_person;pl:3p;pl:3p;;;;PILOT-GRAM-1;item_707
+item_2;pyszniejszy, fajniejsza, ładniejsze;inflection;adjective_adverb;adj-comp;adj-comp;;;;additional_gram;item_732
+item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejsza, <u><i>naj</i></u>ładniejsze;inflection;adjective_adverb;adj-sup;adj-sup;;;;additional_gram;item_733
+item_4;mocniej, ciszej;inflection;adjective_adverb;adv-comp;adv-comp;;;;additional_gram;item_734
+item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;adv-sup;adv-sup;;;;additional_gram;item_735
 item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives1;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
 item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives1;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
 item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives1;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
@@ -720,10 +724,6 @@ item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połą
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
 item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
-item_2;pyszniejszy, fajniejsza, ładniejsze;inflection;adjective_adverb;adj-comp;adj-comp;;;;additional_gram;item_732
-item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejsza, <u><i>naj</i></u>ładniejsze;inflection;adjective_adverb;adj-sup;adj-sup;;;;additional_gram;item_733
-item_4;mocniej, ciszej;inflection;adjective_adverb;adv-comp;adv-comp;;;;additional_gram;item_734
-item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;adv-sup;adv-sup;;;;additional_gram;item_735
 item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
 item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
 item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
