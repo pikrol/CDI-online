@@ -672,7 +672,7 @@ item_667;jak - (to);word;connecting_words;;;function_words;conjunctions;if - (th
 item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_668
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
-item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
+item_671;Czy Twoje dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
 item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
 item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
 item_674;Czy Twoje dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zdania jak np. „dzidzi am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
