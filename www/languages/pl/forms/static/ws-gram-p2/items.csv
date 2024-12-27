@@ -672,6 +672,9 @@ item_667;jak - (to);word;connecting_words;;;function_words;conjunctions;if - (th
 item_668;tylko;word;connecting_words;;;function_words;conjunctions;but;WS;item_668
 item_669;że;word;connecting_words;;;function_words;conjunctions;that;WS;item_669
 item_670;żeby;word;connecting_words;;;function_words;conjunctions;in order to;WS;item_670
+item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
+item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
+item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
 item_674;Czy Twoje dziecko zaczęło już łączyć wyrazy? Czy tworzy takie zdania jak np. „dzidzi am”, „da mleko”, „tu kotek”, „mama śpi”?;combine;;;;;;;WS;item_671
 item_3;mam<b><u>ę</u></b>, lalk<b><u>ę</u></b>, piłk<b><u>ę</u></b>;inflection;noun_form;acc:fem:sg „-ę“;acc:fem:sg;;;;PILOT-GRAM-1;item_672
 item_2;mami<b><u>e</u></b>, lalc<b><u>e</u></b>, piłc<b><u>e</u></b>;inflection;noun_form;dat/loc:fem:sg „-'e”;dat/loc:fem:sg;;;;PILOT-GRAM-1;item_673
@@ -724,9 +727,6 @@ item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połą
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
 item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
-item_671;Czy dziecko samorzutnie powtarza zasłyszane wypowiedzi bądź ich fragmenty? ;starting_to_talk;;;;;;;WS;item_736
-item_672;Czy poproszone o powtórzenie czegoś, chętnie powtarza? ;starting_to_talk;;;;;;;WS;item_737
-item_673;Czy łatwo uczy się wierszyków, piosenek, tekstów z książeczek? ;starting_to_talk;;;;;;;WS;item_738
 item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives3;;;;;;ms_items;item_739
 item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives3;;;;;;ms_items;item_740
 item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives3;;;;;;ms_items;item_741
