@@ -713,32 +713,32 @@ item_2;pyszniejszy, fajniejsza, ładniejsze;inflection;adjective_adverb;adj-comp
 item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejsza, <u><i>naj</i></u>ładniejsze;inflection;adjective_adverb;adj-sup;adj-sup;;;;additional_gram;item_733
 item_4;mocniej, ciszej;inflection;adjective_adverb;adv-comp;adv-comp;;;;additional_gram;item_734
 item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;adv-sup;adv-sup;;;;additional_gram;item_735
-item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives1;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
-item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives1;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
-item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives1;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
-item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives1;indirect „Babcia przyjedzie.”;indirect;;;;CDI3;item_711
-item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives1;complex-sothat „Myję nogi. Będą czyste.”;complex-sothat;;;;CDI3;item_712
-item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives1;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
-item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives1;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
-item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives1;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
-item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives1;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
-item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives1;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
+item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives_complex;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
+item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives_complex;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
+item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives_complex;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
+item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives_complex;indirect „Babcia przyjedzie.”;indirect;;;;CDI3;item_711
+item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives_complex;complex-sothat „Myję nogi. Będą czyste.”;complex-sothat;;;;CDI3;item_712
+item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives_complex;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
+item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives_complex;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
+item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives_complex;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
+item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives_complex;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
+item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives_complex;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
+item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives_simple;;;;;;ms_items;item_739
+item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives_simple;;;;;;ms_items;item_740
+item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives_simple;;;;;;ms_items;item_741
+item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives_simple;;;;;;ms_items;item_742
+item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives_simple;;;;;;ms_items;item_743
+item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives_simple;;;;;;ms_items;item_744
+item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives_simple;;;;;;ms_items;item_745
+item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives_simple;;;;;;ms_items;item_746
+item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives_simple;;;;;;ms_items;item_747
+item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives_simple;;;;;;ms_items;item_748
+item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives_simple;;;;;;ms_items;item_749
+item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives_simple;;;;;;ms_items;item_750
+item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives_simple;;;;;;ms_items;item_751
+item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives_simple;;;;;;ms_items;item_752
+item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives_simple;;;;;;ms_items;item_753
 item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;complex-because;complex-because;;;;CDI3;item_725
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
 item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
-item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives3;;;;;;ms_items;item_739
-item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives3;;;;;;ms_items;item_740
-item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives3;;;;;;ms_items;item_741
-item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives3;;;;;;ms_items;item_742
-item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives3;;;;;;ms_items;item_743
-item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives3;;;;;;ms_items;item_744
-item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives3;;;;;;ms_items;item_745
-item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives3;;;;;;ms_items;item_746
-item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives3;;;;;;ms_items;item_747
-item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives3;;;;;;ms_items;item_748
-item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives3;;;;;;ms_items;item_749
-item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives3;;;;;;ms_items;item_750
-item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives3;;;;;;ms_items;item_751
-item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives3;;;;;;ms_items;item_752
-item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives3;;;;;;ms_items;item_753
