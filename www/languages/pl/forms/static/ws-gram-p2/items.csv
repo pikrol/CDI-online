@@ -714,17 +714,29 @@ item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejsza, <u><i>naj</i><
 item_4;mocniej, ciszej;inflection;adjective_adverb;adv-comp;adv-comp;;;;additional_gram;item_734
 item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;adv-sup;adv-sup;;;;additional_gram;item_735
 item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives_simple;simple_intransitive;simple_intransitive;;;;ms_items;item_739
-item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives_simple;negation_verb;negation_verb;;;;ms_items;item_740
-item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives_simple;simple_transitive_object;simple_transitive_object;;;;ms_items;item_741
+;A. To hau.%B. To jest pies.;sentences;alternatives_simple;simple_declarative;simple_declarative;;;;ms_items;item_739
+;A. Da am.%B. Daj mi jeść.;sentences;alternatives_simple;simple_imperative;simple_imperative;;;;ms_items;item_739
+item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives_simple;negation_verb „Nie chcę pić!”;negation_verb;;;;ms_items;item_740
+;A. Nie mleko!%B. Nie chcę mleka!;sentences;alternatives_simple;negation_verb „Nie chcę mleka!”;negation_verb;;;;ms_items;item_740
+item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives_simple;simple_transitive_object „Kotek pije mleczko.”;simple_transitive_object;;;;ms_items;item_741
+;A. Maciuś myje.%B. Maciuś myje rączki.;sentences;alternatives_simple;simple_transitive_object „Maciuś myje rączki.”;simple_transitive_object;;;;ms_items;item_741
+;A. Mama kawę.%B. Mama pije kawę.;sentences;alternatives_simple;simple_transitive_verb;simple_transitive_verb;;;;ms_items;item_741
+;A. Ania tatusiem.%B. Ania pójdzie z tatusiem.;sentences;alternatives_simple;future_verb_preposition;future_verb_preposition;;;;ms_items;item_741
 item_4;A. Tomek spać.%B. Tomek chce spać.;sentences;alternatives_simple;simple_verb;simple_verb;;;;ms_items;item_742
+;A. Mama pracy.%B. Mama poszła do pracy.;sentences;alternatives_simple;past_verb_preposition;past_verb_preposition;;;;ms_items;item_742
+;A. Babcia spacer.%B. Babcia idzie na spacer.;sentences;alternatives_simple;simple_verb_preposition;simple_verb_preposition;;;;ms_items;item_742
 item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives_simple;simple_copula;simple_copula;;;;ms_items;item_743
+;A. Boi hau.%B. Boję się psa.;sentences;alternatives_simple;simple_1p_subject_genitive_object;simple_1p_subject_genitive_object;;;;ms_items;item_743
+;A. Chcę domu.%B. Chcę iść do domu.;sentences;alternatives_simple;simple_infinitive;simple_infinitive;;;;ms_items;item_743
 item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives_simple;simple_indirect_object;simple_indirect_object;;;;ms_items;item_744
 item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives_simple;simple_possession;simple_possession;;;;ms_items;item_745
 item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives_simple;simple_reflexive_instrumental;simple_reflexive_instrumental;;;;ms_items;item_746
 item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives_simple;simple_1p_subject;simple_1p_subject;;;;ms_items;item_747
+;A. Nie zdejmij buty!%B. Nie zdejmuj mi butów!;sentences;alternatives_simple;negated_imperative_direct_object;negated_imperative_direct_object;;;;ms_items;item_747
 item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives_simple;modal_request;modal_request;;;;ms_items;item_748
 item_11;A. Dziadzio rączki be.%B. Dziadzio ma brudne rączki.;sentences;alternatives_simple;object_complement „Dziadzio ma brudne rączki.”;object_complement;;;;ms_items;item_749
 item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives_simple;object_complement „Mam dużego misia.”;object_complement;;;;ms_items;item_750
+;A. Lala włoski, ładne włoski.%B. Moja lala ma ładne włoski.;sentences;alternatives_simple;simple_complemented;simple_complemented;;;;ms_items;item_750
 item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives_simple;adverbial_indirect_object;adverbial_indirect_object;;;;ms_items;item_751
 item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives_simple;perfective_indirect_prepositional;perfective_indirect_prepositional;;;;ms_items;item_752
 item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives_simple;simple-but;simple-but;;;;ms_items;item_753
