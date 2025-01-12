@@ -1,4 +1,7 @@
 parameter;value
 email;no
 database;yes
-additionalEndMessageFromDatabase;no
+additionalEndMessageFromDatabase;yes
+additionalEndMessageTable;biedronka_vouchers
+additionalEndMessageValueColumn;voucher
+additionalEndMessageIdColumn;id
