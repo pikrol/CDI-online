@@ -713,16 +713,6 @@ item_2;pyszniejszy, fajniejsza, ładniejsze;inflection;adjective_adverb;adj-comp
 item_3;<u><i>naj</i></u>pyszniejszy, <u><i>naj</i></u>fajniejsza, <u><i>naj</i></u>ładniejsze;inflection;adjective_adverb;adj-sup;adj-sup;;;;additional_gram;item_733
 item_4;mocniej, ciszej;inflection;adjective_adverb;adv-comp;adv-comp;;;;additional_gram;item_734
 item_5;<u><i>naj</i></u>mocniej, <u><i>naj</i></u>ciszej;inflection;adjective_adverb;adv-sup;adv-sup;;;;additional_gram;item_735
-item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives_complex;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
-item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives_complex;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
-item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives_complex;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
-item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives_complex;indirect „Babcia przyjedzie.”;indirect;;;;CDI3;item_711
-item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives_complex;complex-sothat „Myję nogi. Będą czyste.”;complex-sothat;;;;CDI3;item_712
-item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives_complex;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
-item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives_complex;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
-item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives_complex;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
-item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives_complex;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
-item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives_complex;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
 item_1;A. Dzidzi aaa.%B. Dziecko śpi.;sentences;alternatives_simple;;;;;;ms_items;item_739
 item_2;A. Nie pić!%B. Nie chcę pić!;sentences;alternatives_simple;;;;;;ms_items;item_740
 item_3;A. Kotek pije.%B. Kotek pije mleczko.;sentences;alternatives_simple;;;;;;ms_items;item_741
@@ -738,6 +728,16 @@ item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives_s
 item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives_simple;;;;;;ms_items;item_751
 item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives_simple;;;;;;ms_items;item_752
 item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives_simple;;;;;;ms_items;item_753
+item_2;A. Przyjedzie ciocia. Będziemy się bawić.%B. Przyjedzie ciocia i będziemy się bawić.;sentences;alternatives_complex;complex-and „Przyjedzie ciocia. Będziemy się bawić.”;complex-and;;;;CDI3;item_708
+item_19;A. Mam worek.%B. Mam worek z butami.;sentences;alternatives_complex;instrumental_plural „Mam worek.”;instrumental_plural;;;;CDI3;item_709
+item_13;A. Tata przyjdzie. Nakarmi kota.%B. Jak tata przyjdzie, to nakarmi kota.;sentences;alternatives_complex;complex-when „Tata przyjdzie. Nakarmi kota.”;complex-when;;;;CDI3;item_710
+item_3;A. Babcia przyjedzie.%B. Babcia powiedziała, że przyjedzie.;sentences;alternatives_complex;indirect „Babcia przyjedzie.”;indirect;;;;CDI3;item_711
+item_5;A. Myję nogi. Będą czyste.%B. Myję nogi, żeby były czyste.;sentences;alternatives_complex;complex-sothat „Myję nogi. Będą czyste.”;complex-sothat;;;;CDI3;item_712
+item_15;A. Braciszek zrobił kanapkę. Braciszek jej nie je.%B. Braciszek zrobił kanapkę, ale jej nie je.;sentences;alternatives_complex;complex-but „Braciszek zrobił kanapkę. Braciszek jej nie je.”;complex-but;;;;CDI3;item_713
+item_1;A. Mama śpi.%B. Mama śpi, bo jest zmęczona.;sentences;alternatives_complex;complex-because „Mama śpi.”;complex-because;;;;CDI3;item_714
+item_16;A. Tata lubi pierogi.%B. Tata powiedział, że lubi pierogi.;sentences;alternatives_complex;indirect „Tata lubi pierogi.”;indirect;;;;CDI3;item_715
+item_4;A. Pada deszcz i nie wyjdziemy.%B. Nie wyjdziemy, bo pada deszcz.;sentences;alternatives_complex;complex-because „Pada deszcz i nie wyjdziemy.”;complex-because;;;;CDI3;item_717
+item_14;A. Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.%B. Jadąc do przedszkola, śpiewałem(-am) piosenkę.;sentences;alternatives_complex;participle „Jechałem(-am) do przedszkola i śpiewałem(-am) piosenkę.”;participle;;;;CDI3;item_723
 item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;questions;complex-because;complex-because;;;;CDI3;item_725
 item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;questions;indirect;indirect;;;;CDI3;item_726
 item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;questions;complex-when;complex-when;;;;CDI3;item_727
