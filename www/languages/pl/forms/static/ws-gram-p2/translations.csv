@@ -97,10 +97,10 @@ longText;<p>Na kolejnych stronach znajdują się przykłady zdań, które dzieci
 warning;Nie przejmuj się, jeśli odpowiadając na nasze pytania pomyślisz, że Twoje dziecko „źle” wypada. Pytamy tutaj o rzeczy, które pojawiają się w mowie dzieci w różnym wieku, i tak naprawdę dopiero chcemy ustalić, o co i w jakim wieku dziecka warto pytać.;sentences;alternatives_simple
 catHeader;Przykłady zdań;sentences;alternatives_complex
 instr;Poniższe przykłady zdań ułożyliśmy parami: w każdej parze jedna wersja jest mniej, a druga bardziej złożona. Zaznacz wersję, która przypomina wypowiedzi Twojego dziecka. Nie chodzi nam o dokładnie takie sformułowania, jakich użyliśmy w przykładach. Również wyrazy używane przez Twoje dziecko mogą być inne (mogą też występować w nich błędy, np. „chciałambym” zamiast „chciałabym”). Jeżeli obie wersje przypominają wypowiedzi Twojego dziecka, możesz zaznaczyć obie, a jeśli Twoje dziecko jeszcze w ogóle nie tworzy takich wypowiedzi, nie zaznaczaj żadnej z nich.;sentences;alternatives_complex
-catHeader;Dodatkowe pytania;sentences;yesNowprost
-longText;Poniżej znajdziesz jeszcze listę pytań dotyczących tego, jak Twoje dziecko posługuje się językiem. Odpowiadając na nie, pamiętaj, że pytamy o rzeczy, które mogą pojawiać się w różnym wieku, a w dodatku dzieci rozwijają się w różnym tempie: nie martw się, jeśli na większość tych pytań odpowiesz przecząco. Nie przejmuj się też, jeśli Twoje dziecko popełnia błędy. Np. jeśli pytamy, czy Twoje dziecko dodaje „-bym” do czasowników, odpowiedz twierdząco, jeśli Twoje dziecko mówi np. „chciałambym”.;sentences;yesNowprost
-choiceNames;jeszcze nie, czasem, często;sentences;yesNowprost
-help;Czy odpowiedziałaś_eś na wszystkie pytania?;sentences;yesNowprost
+catHeader;Dodatkowe pytania;sentences;questions
+longText;Poniżej znajdziesz jeszcze listę pytań dotyczących tego, jak Twoje dziecko posługuje się językiem. Odpowiadając na nie, pamiętaj, że pytamy o rzeczy, które mogą pojawiać się w różnym wieku, a w dodatku dzieci rozwijają się w różnym tempie: nie martw się, jeśli na większość tych pytań odpowiesz przecząco. Nie przejmuj się też, jeśli Twoje dziecko popełnia błędy. Np. jeśli pytamy, czy Twoje dziecko dodaje „-bym” do czasowników, odpowiedz twierdząco, jeśli Twoje dziecko mówi np. „chciałambym”.;sentences;questions
+choiceNames;jeszcze nie, czasem, często;sentences;questions
+help;Czy odpowiedziałaś_eś na wszystkie pytania?;sentences;questions
 tooltip;Zakończenie kwestionariusza będzie możliwe po zatwierdzeniu wszystkich części.;end;
 instr;Jeśli wypełniłaś_eś wszystkie części kwestionariusza, kliknij przycisk „Zatwierdź”.;end;
 endMsgTitle;Dziękujemy za wypełnienie kwestionariusza!;end;

@@ -738,7 +738,7 @@ item_12;A. Mam misia, miś duży.%B. Mam dużego misia.;sentences;alternatives_s
 item_13;A. Dam książkę.%B. Zaraz dam babci książkę;sentences;alternatives_simple;;;;;;ms_items;item_751
 item_14;A. Czytaj bajkę.%B. Przeczytaj mi bajkę o małym misiu.;sentences;alternatives_simple;;;;;;ms_items;item_752
 item_15;A. Nie piesek, kotek.%B. To nie jest piesek, tylko kotek.;sentences;alternatives_simple;;;;;;ms_items;item_753
-item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;yesNowprost;complex-because;complex-because;;;;CDI3;item_725
-item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;yesNowprost;indirect;indirect;;;;CDI3;item_726
-item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;yesNowprost;complex-when;complex-when;;;;CDI3;item_727
-item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;yesNowprost;complex-but;complex-but;;;;CDI3;item_728
+item_24;Czy Twoje dziecko używa słowa „bo” („ponieważ”), żeby połączyć dwa zdania, np. „Nie wyjdziemy, bo pada deszcz”?;sentences;questions;complex-because;complex-because;;;;CDI3;item_725
+item_35;Czy Twoje dziecko opowiada o tym, co ktoś powiedział, mówiąc „... powiedział(a), że...”?;sentences;questions;indirect;indirect;;;;CDI3;item_726
+item_29;Czy Twoje dziecko używa słowa „jak” i/lub „kiedy”, by łączyć dwa zdania, np. „Jak wrócę do domu, to zjem obiad”?;sentences;questions;complex-when;complex-when;;;;CDI3;item_727
+item_25;Czy Twoje dziecko używa słowa „ale”, żeby połączyć dwa zdania, np. „Szukam misia, ale nie mogę go znaleźć”?;sentences;questions;complex-but;complex-but;;;;CDI3;item_728

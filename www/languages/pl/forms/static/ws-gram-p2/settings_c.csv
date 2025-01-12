@@ -10,6 +10,6 @@ inflection,verb_tense,radio,TRUE,,,TRUE,,
 inflection,verb_person,radio,TRUE,,,TRUE,,
 combine,,radio,FALSE,,,TRUE,sentences,"2,3"
 sentences,,checkboxAlt,TRUE,,,TRUE,,
-sentences,yesNowprost,radio,TRUE,,,TRUE,,
+sentences,questions,radio,TRUE,,,TRUE,,
 sentences,sentences3,sentences,FALSE,,,TRUE,,
 end,,,FALSE,,,TRUE,,
