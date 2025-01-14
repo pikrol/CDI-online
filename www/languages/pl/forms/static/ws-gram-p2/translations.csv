@@ -108,5 +108,5 @@ tooltip;Zakończenie kwestionariusza będzie możliwe po zatwierdzeniu wszystkic
 instr;Jeśli wypełniłaś_eś wszystkie części kwestionariusza, kliknij przycisk „Zatwierdź”. Na ekranie pojawi się wtedy e-kod (elektroniczna karta podarunkowa) Biedronki. Zapisz go koniecznie!;end;
 endMsgTitle;Dziękujemy za wypełnienie kwestionariusza!;end;
 additionalEndMessageFromDatabaseText;"Poniżej znajduje się e-kod (elektroniczna karta podarunkowa) Biedronki o wartości 40 zł. Zrób zrzut ekranu lub zanotuj te dane.";;
-additionalEndMessageFromDatabaseNoText;"Prosimy o kontakt mailowy na adres projekt.starwords@psych.uw.edu.pl w celu uzyskania e-kodu (elektronicznej karty podarunkowej) Biedronki o wartości 40 zł.";;
+additionalEndMessageFromDatabaseNoText;"Prosimy o kontakt mailowy na adres multilada@psych.uw.edu.pl w celu uzyskania e-kodu (elektronicznej karty podarunkowej) Biedronki o wartości 40 zł.";;
 endMsgText;Mamy nadzieję, że czas refleksji nad rozwojem językowym dziecka był dla Ciebie cenny! Twoje zaangażowanie w badanie jest bardzo ważne - pomoże nam szczegółowo opisać wczesny rozwój językowy dzieci.;end;
