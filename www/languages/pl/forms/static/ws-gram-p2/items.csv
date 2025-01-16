@@ -730,7 +730,7 @@ item_5;A. Tata chory.%B. Tata jest chory.;sentences;alternatives_simple_2;simple
 ;A. Chcę domu.%B. Chcę iść do domu.;sentences;alternatives_simple_2;simple_infinitive;simple_infinitive;;;;ms_items;item_726
 item_6;A. Baba kupi cucu.%B. Babcia mi kupi cukierki.;sentences;alternatives_simple_2;simple_indirect_object;simple_indirect_object;;;;ms_items;item_727
 item_7;A. Gdzie autko?%B. Gdzie jest moje autko?;sentences;alternatives_simple_2;simple_possession;simple_possession;;;;ms_items;item_728
-item_8;A. Jaś bawi auto.%B. Jaś bawi się autkiem.;sentences;alternatives_simple_3;simple_reflexive_instrumental;simple_reflexive_instrumental;;;;ms_items;item_729
+item_8;A. Jaś bawi auto.%B. Jaś bawi się autem.;sentences;alternatives_simple_3;simple_reflexive_instrumental;simple_reflexive_instrumental;;;;ms_items;item_729
 item_9;A. Michał grzeczny.%B. Jestem grzeczny.;sentences;alternatives_simple_3;simple_1p_subject;simple_1p_subject;;;;ms_items;item_730
 ;A. Nie zdejmij buty!%B. Nie zdejmuj mi butów!;sentences;alternatives_simple_3;negated_imperative_direct_object;negated_imperative_direct_object;;;;ms_items;item_731
 item_10;A. Daj mleka.%B. Chciałem się napić mleka.;sentences;alternatives_simple_3;modal_request;modal_request;;;;ms_items;item_732
