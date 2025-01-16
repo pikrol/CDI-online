@@ -1,11 +1,15 @@
 # CDI online
-Currently deployed version: v1.9 <br>
+Currently deployed version: v1.10 <br>
 Documentation: https://docs.google.com/document/d/1-jqseaOw0QnvK7eQfRKUZTedJ4jp7Y9-YTqJgnltQb0/edit#heading=h.cfni66gw85m0 <br>
 Making a renv snapshot: renv::snapshot()
 
 ## Changes
+
 ### v1.10
-* Fixed: proper vouchers table name logging
+
+* Changed: Sendigridr email sending temporarily off
+* Fixed: bug with fast nav button clicks
+* Changed: no more form changes/additions listed here
 
 ### v1.9
 * Fixed: irregular columns with some input types
