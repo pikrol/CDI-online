@@ -1,27 +1,26 @@
 # CDI online
-Currently deployed version: v1.10 <br>
+Currently deployed version: v1.11 <br>
 Documentation: https://docs.google.com/document/d/1-jqseaOw0QnvK7eQfRKUZTedJ4jp7Y9-YTqJgnltQb0/edit#heading=h.cfni66gw85m0 <br>
 Making a renv snapshot: renv::snapshot()
 
 ## Changes
 
+### v1.11
+
+* Added: redirection URL may contain parameters with fixed values
+* Added: no vouchers message when no vouchers table
+* Fixed: proper vouchers table name logging
+
 ### v1.10
 
 * Changed: Sendigridr email sending temporarily off
-* Fixed: bug with fast nav button clicks
-* Changed: no more form changes/additions listed here
+* Fixed: bug with fast nav button clicks (patched again in v1.10.01)
 
 ### v1.9
 * Fixed: irregular columns with some input types
-* Added: HTML tags for adaptive forms
-* Fixed: HTML tags for norwegian forms
 * Added: sending e-mails with Sendgridr
-* Fixed: config files of the pilot of Polish CDI-III
 
 ### v1.8
-* Added bold for norwegian CDI-III
-* Corrected vouchers settings and translations
-* Added forms with redirection
 * Added: dependency managment renv.lock file (issue #257)
 * Fixed: sendLogs function
 * Added: HTML text formatting (issue #244)
@@ -29,9 +28,7 @@ Making a renv snapshot: renv::snapshot()
 * Added: possibility of adding the run parameter to the redirection URL
 * Changed: redirection time is 0 by default (issue #235)
 * Added: moving circle when the app is loading (issue #54)
-* Removed: testing forms (wg-r, ws-v etc.)
 * Changed: vouchers are optional and situation with missing vouchers is handled (issue #240)
-* Added: missing parameters.csv files for no and en-gb forms
 * Changed: tooltips are created like other translations (issue #133)
 * Changed: menuButtons are created like other translations (new menuButton text_type)
 * Changed: No blabla needed in translations files and fixed bug with treating 
@@ -49,24 +46,15 @@ initially_disabled values as strings instead of booleans (issue #238)
 ### v1.6
 * Changed: CAT items displayed without an unnecessary new line and quotes
 * Added: Text saying about a need for wait when the CAT is loading (issue #177)
-* Changed: Correct CAT settings&translations
 * Changed: Question in CAT is displayed above the item, question may be null. Column id added to items
-* Changed: CAT items as in static mode, CAT item questions contain category headers
-(also notes for lexical items and category questions for gestures)
-* Changed: Updated word list in UK:WS
 
 ### v1.5
 * Added: more informative error for database saving failure (issue #172)
-* Changed: app checks for existance of .Renviron file before reading it in (issue #192)
-* Changed: end message for adaptive inventory (issue #198)
-* Added: Correct Norwegian and English translations
-
+* Changed: app checks for existence of .Renviron file before reading it in (issue #192)
 
 ### v1.4
 * Changed: general error text (issue #208)
 * Changed: sidebar URL errors texts (issue #209)
-* Added: instructions for cat forms
-* Added: instr, longText and warning message for adaptive tests. Intro placed as LongText
 * Added: more logs to adaptive version + main observer function in adaptive set once=True
 
 ### v1.3
@@ -85,7 +73,6 @@ initially_disabled values as strings instead of booleans (issue #238)
 ### v1.0
 * Changed: 'Data urodzenia' not 'data urodzin'
 * Changed: Type adaptive not adaptative
-* Added: En and No static forms should work
 * Added: Default setting (static) for type parameter (issue #164)
 * Fixed: Cleaned code for adaptive inventory (issue #162)
 * Fixed: End message in CAT before opportunity to give a comment to a last part (issue #168)
